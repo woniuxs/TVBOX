@@ -13,7 +13,7 @@
     },
     {
       "key": "云盘登录",
-      "name": "云盘登录",
+      "name": "💐云盘丨登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
@@ -25,7 +25,7 @@
     },
     {
       "key": "配置中心",
-      "name": "配置中心",
+      "name": "🐈配置丨中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
@@ -39,7 +39,7 @@
     },
     {
       "key": "韩小圈",
-      "name": "韩小圈",
+      "name": "🐚韩小圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
@@ -50,7 +50,7 @@
     },
     {
       "key": "无忧短剧",
-      "name": "无忧短剧",
+      "name": "🐓无忧丨短剧",
       "type": 3,
       "api": "csp_Duanj",
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
