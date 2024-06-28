@@ -1,0 +1,28 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🧡蜗牛纯4k仓🍭蜗牛科技🍭",
+      "sourceUrl": "https://4k.woniuxs.dynv6.net/4k.json"
+    },
+    {
+      "sourceName": "💜蜗牛精选仓🍭蜗牛提醒🍭",
+      "sourceUrl": "https://tvbox.woniuxs.dynv6.net/%E8%9C%97%E7%89%9B%E5%A4%9A%E4%BB%93"
+    },
+    {
+      "sourceName": "💚蜗牛优选仓🍭软件接口🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"
+    },
+    {
+      "sourceName": "💛蜗牛公众仓🍭完全免费🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"
+    },
+    {
+      "sourceName": "❤️蜗牛聚合仓🍭严禁贩卖🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"
+    },
+    {
+      "sourceName": "💙蜗牛预备仓🍭不做韭菜🍭",
+      "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"
+    }
+  ]
+}

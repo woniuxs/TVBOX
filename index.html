@@ -1,0 +1,766 @@
+
+<!DOCTYPE html>
+<html class="">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+<title>蜗牛导航</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="keywords" content="个性导航,浏览器导航,浏览迷,浏览器之家,蜗牛导航">
+<meta name="description" content="蜗牛导航是浏览迷、浏览器之家旗下的轻便、简洁、个性化的网址导航，为广大浏览迷提供可定制化的个人网址导航站。">
+<base href="//dama.lu/" />
+<link id="bs-css" href="./Public/damalu/css/bootstrap.paper.min.css" data-href="./Public/damalu/css/bootstrap.paper.min.css" rel="stylesheet" type="text/css">
+<link id="ng-css" data-href="./Public/damalu/css/bootstrap.cyborg.min.css" rel="stylesheet" type="text/css">
+<link href="./Public/damalu/css/wodecss.css?v1708291" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./Public/damalu/js/jquery.min.js"></script>
+<script src="./Public/damalu/js/html.sortable.min.js"></script>
+<script src="./Public/damalu/js/bootstrap.min.js"></script>
+<script>var user_data = null;</script>
+</head>
+
+<body>
+    <!--搜索栏-->
+    <div class="framework" >
+        <div class="top-section">
+            <div class="useful-links">
+                <div id="search" class="search">
+                    <div class="logo-box">
+                        <a class="header_wrap" href="javascript:void(0)">
+                            <div id="header-box" class="header_img"></div>
+                        </a>
+                    </div>
+                    <div class="search-wrapper">
+                        <form id="search-form" action="//www.baidu.com/baidu" target="_blank">
+                            <input id="q-btn" type="submit" name="btnG" value="谷歌一下" class="button2">
+                            <input name="q" type="hidden" id="q-word" />
+                            <input type="text" id="b-word" name="word" size="40" class="input2" > 
+                            <input type="submit" id="b-btn" value="百度几下" class="button button-hook">
+                        </form>
+                    </div>       
+                </div> 
+                ﻿				<ul class="recommonds">
+                    <li data_old="1" class="sigleRecommond">
+                        <span old_del="1" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.163.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/163.png" style="box-shadow: 0 10px 10px -6px rgba(225, 0, 0, 0.75);">
+                            <span class="text-links">网 易</span>
+                        </a>
+                    </li>
+                    <li data_old="2" class="sigleRecommond">
+                        <span old_del="2" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.sina.com.cn/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/sina.png" style="box-shadow: 0 10px 10px -6px rgba(204, 204, 204, 0.75);">
+                            <span class="text-links">新 浪</span>
+                        </a>
+                    </li>
+                    <li data_old="3" class="sigleRecommond">
+                        <span old_del="3" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.qq.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/tencent.png" style="box-shadow: 0 10px 10px -6px rgba(175, 187, 214, 0.75);">
+                            <span class="text-links">腾 讯</span>
+                        </a>
+                    </li>
+                    <li data_old="4" class="sigleRecommond">
+                        <span old_del="4" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.douban.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/douban.png" style="box-shadow: 0 10px 10px -6px rgba(5, 193, 17, 0.75);">
+                            <span class="text-links">豆 瓣</span>
+                        </a>
+                    </li>
+                    <li data_old="5" class="sigleRecommond">
+                        <span old_del="5" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.cnbeta.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/cnBeta.png" style="box-shadow: 0 10px 10px -6px rgba(0, 157, 255, 0.75);">
+                            <span class="text-links">cnBeta</span>
+                        </a>
+                    </li>
+                    <li data_old="6" class="sigleRecommond">
+                        <span old_del="6" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.ithome.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/ithome.png" style="box-shadow: 0 10px 10px -6px rgba(210, 34, 34, 0.75);">
+                            <span class="text-links">IT之家</span>
+                        </a>
+                    </li>
+                    <li data_old="7" class="sigleRecommond">
+                        <span old_del="7" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://www.dgtle.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/shuziweiba.png" style="box-shadow: 0 10px 10px -6px rgba(95, 100, 121, 0.75);">
+                            <span class="text-links">数字尾巴</span>
+                        </a>
+                    </li>
+                    <li data_old="8" class="sigleRecommond">
+                        <span old_del="8" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://sspai.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/shaoshupai.png" style="box-shadow: 0 10px 10px -6px rgba(255, 0, 10, 0.75);">
+                            <span class="text-links">少数派</span>
+                        </a>
+                    </li>
+                    <li data_old="9" class="sigleRecommond">
+                        <span old_del="9" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.zhihu.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/zhihu.png" style="box-shadow: 0 10px 10px -6px rgba(22, 144, 244, 0.75);">
+                            <span class="text-links">知 乎</span>
+                        </a>
+                    </li>
+                    <li data_old="10" class="sigleRecommond">
+                        <span old_del="10" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.hupu.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/hupu.png" style="box-shadow: 0 10px 10px -6px rgba(192, 29, 46, 0.75);">
+                            <span class="text-links">虎 扑</span>
+                        </a>
+                    </li>
+                    <li data_old="11" class="sigleRecommond">
+                        <span old_del="11" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://tv.sohu.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/sohu.png" style="box-shadow: 0 10px 10px -6px rgba(204, 204, 204, 0.75);">
+                            <span class="text-links">搜狐视频</span>
+                        </a>
+                    </li>
+                    <li data_old="12" class="sigleRecommond">
+                        <span old_del="12" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.iqiyi.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/iqiyi.png" style="box-shadow: 0 10px 10px -6px rgba(7, 218, 0, 0.75);">
+                            <span class="text-links">爱奇艺</span>
+                        </a>
+                    </li>
+                    <li data_old="13" class="sigleRecommond">
+                        <span old_del="13" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.youku.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/11_f3f7f3b.png" style="box-shadow: 0 10px 10px -6px rgba(204, 204, 204, 0.75);">
+                            <span class="text-links">优 酷</span>
+                        </a>
+                    </li>
+                    <li data_old="14" class="sigleRecommond">
+                        <span old_del="14" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://v.qq.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/txshipin.png" style="box-shadow: 0 10px 10px -6px rgba(164, 201, 185, 0.75);">
+                            <span class="text-links">腾讯视频</span>
+                        </a>
+                    </li>
+                    <li data_old="15" class="sigleRecommond">
+                        <span old_del="15" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://liulanmi.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/liulanmi.png" style="box-shadow: 0 10px 10px -6px rgba(91, 114, 58, 0.75);">
+                            <span class="text-links">浏览迷</span>
+                        </a>
+                    </li>
+                    <li data_old="16" class="sigleRecommond">
+                        <span old_del="16" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.douyu.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/douyu.png" style="box-shadow: 0 10px 10px -6px rgba(255, 108, 46, 0.75);">
+                            <span class="text-links">斗 鱼</span>
+                        </a>
+                    </li>
+                    <li data_old="17" class="sigleRecommond">
+                        <span old_del="17" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.huya.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/huya.png" style="box-shadow: 0 10px 10px -6px rgba(204, 204, 204, 0.75);">
+                            <span class="text-links">虎 牙</span>
+                        </a>
+                    </li>
+                    <li data_old="18" class="sigleRecommond">
+                        <span old_del="18" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.bilibili.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/bilibili.png" style="box-shadow: 0 10px 10px -6px rgba(209, 80, 117, 0.75);">
+                            <span class="text-links">哔哩哔哩</span>
+                        </a>
+                    </li>
+                    <li data_old="19" class="sigleRecommond">
+                        <span old_del="19" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://music.163.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/wangyiyun.png" style="box-shadow: 0 10px 10px -6px rgba(241, 33, 0, 0.75);">
+                            <span class="text-links">网易云音乐</span>
+                        </a>
+                    </li>
+                    <li data_old="20" class="sigleRecommond">
+                        <span old_del="20" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://y.qq.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/qqmusic.png" style="box-shadow: 0 10px 10px -6px rgba(204, 204, 204, 0.75);">
+                            <span class="text-links">QQ音乐</span>
+                        </a>
+                    </li>
+                    <li data_old="21" class="sigleRecommond">
+                        <span old_del="21" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.weibo.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/weibo.png" style="box-shadow: 0 10px 10px -6px rgba(255, 160, 21, 0.75);">
+                            <span class="text-links">微 博</span>
+                        </a>
+                    </li>
+                    <li data_old="22" class="sigleRecommond">
+                        <span old_del="22" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.taobao.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/7_fd6028a.png" style="box-shadow: 0 10px 10px -6px rgba(255, 85, 0, 0.75);">
+                            <span class="text-links">淘 宝</span>
+                        </a>
+                    </li>
+                    <li data_old="23" class="sigleRecommond">
+                        <span old_del="23" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.tmall.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/tmall.png" style="box-shadow: 0 10px 10px -6px rgba(34, 24, 22, 0.75);">
+                            <span class="text-links">天 猫</span>
+                        </a>
+                    </li>
+                    <li data_old="24" class="sigleRecommond">
+                        <span old_del="24" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.smzdm.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/zhidemai.png" style="box-shadow: 0 10px 10px -6px rgba(202, 55, 60, 0.75);">
+                            <span class="text-links">什么值得买</span>
+                        </a>
+                    </li>
+                    <li data_old="25" class="sigleRecommond">
+                        <span old_del="25" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.Amazon.cn" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/yamaxun.png" style="box-shadow: 0 10px 10px -6px rgba(95, 100, 121, 0.75);">
+                            <span class="text-links">亚马逊</span>
+                        </a>
+                    </li>
+                    <li data_old="26" class="sigleRecommond">
+                        <span old_del="26" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.jd.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/26_ce19bec.png" style="box-shadow: 0 10px 10px -6px rgba(249, 52, 61, 0.75);">
+                            <span class="text-links">京 东</span>
+                        </a>
+                    </li>
+                    <li data_old="27" class="sigleRecommond">
+                        <span old_del="27" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.appinn.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/xiaozhong.png" style="box-shadow: 0 10px 10px -6px rgba(0, 108, 219, 0.75);">
+                            <span class="text-links">小众软件</span>
+                        </a>
+                    </li>
+                    <li data_old="28" class="sigleRecommond">
+                        <span old_del="28" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://www.mpyit.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/mopiaoyao.png" style="box-shadow: 0 10px 10px -6px rgba(255, 0, 0, 0.75);">
+                            <span class="text-links">殁漂遥</span>
+                        </a>
+                    </li>
+                    <li data_old="29" class="sigleRecommond">
+                        <span old_del="29" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="http://www.ixiqi.com" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/aixiqi.png" style="box-shadow: 0 10px 10px -6px rgba(246, 127, 017, 0.75);">
+                            <span class="text-links">爱稀奇</span>
+                        </a>
+                    </li>
+                    <li data_old="30" class="sigleRecommond">
+                        <span old_del="30" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="https://36kr.com/" title="" target="_blank">
+                            <img class="img-links2" src="./Public/damalu/pic/36kr.png" style="box-shadow: 0 10px 10px -6px rgba(66, 134, 245, 0.75);">
+                            <span class="text-links">36 氪</span>
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- 模板内容 -->
+                <div class="hide" id="tpl-box">
+                    <li data_add="0" class="item sigleRecommond">
+                        <span add_del="0" class="del-flag glyphicon glyphicon-remove"></span>
+                        <a class="singleLink" href="" title="" target="_blank">
+                            <span class="icon-box"></span>
+                            <span class="text-links"></span>
+                        </a>
+                    </li>
+                </div>
+            </div> 
+        </div>
+
+    </div>
+
+    <!-- Modal -->
+<div class="modal fade" id="editModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="editModalLabel">添加/编辑 导航</h4>
+      </div>
+      <div class="modal-body">
+        <form id="form-add">
+		  <div class="form-group">
+			<label for="web_url">网站地址</label>
+			<input type="text" class="form-control" id="web_url" placeholder="//box.woniuxs.link">
+		  </div>
+		  <div class="form-group">
+			<label for="web_name">网站名称</label>
+			<input type="text" class="form-control" id="web_name" placeholder="蜗牛导航">
+		  </div>
+		  <div class="form-group">
+			<label for="web_name2">简称</label>
+			<input type="text" class="form-control" id="web_name2" placeholder="导航（建议两个字中文或者四个大小写英文）">
+		  </div>
+		  <div class="form-group">
+			<label for="web_color">背景颜色 <span class="show-color" style="background-color: #2a78dc; box-shadow: 0px 3px 10px rgba(42, 120, 220, 0.15);"></span></label>
+			<select class="form-control" id="web_color">
+				<!--<option value="#2a78dc">蓝</option>
+				<option value="#cdcac8">灰</option>
+				<option value="#FFDF80">黄</option>
+				<option value="#86b57c">绿</option>
+				<option value="#fc4300">橘</option>
+				<option value="#20b8ad">青</option>
+				<option value="#C8181B">红</option>
+				<option value="#884898">紫</option>-->
+				<option value="42, 120, 220">蓝</option>
+				<option value="205, 202, 200">灰</option>
+				<option value="255, 223, 128">黄</option>
+				<option value="134, 181, 124">绿</option>
+				<option value="252, 67, 0">橘</option>
+				<option value="32, 184, 173">青</option>
+				<option value="200, 24, 27">红</option>
+				<option value="136, 72, 152">紫</option>
+			</select>
+		  </div>
+		  <button type="submit" id="save-btn" class="btn btn-success">提交</button>
+		</form>
+      </div>
+      <div class="modal-footer hide">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- 消息提示 模态框 -->
+<!-- fade0 关闭动画 -->
+<div class="modal fade0" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                    ×
+                </button>
+                <h4 class="modal-title" modal-title="tips">
+                    <span class="glyphicon glyphicon-comment">
+                        消息提示
+                    </span>
+                </h4>
+                <h4 class="hide modal-title" modal-title="setting">
+                    <span class="glyphicon glyphicon-cog">
+                        设置
+                    </span>
+                </h4>
+                <h4 class="hide modal-title" modal-title="about">
+                    <span class="glyphicon glyphicon-info-sign">
+                        关于
+                    </span>
+                </h4>
+                <h4 class="hide modal-title" modal-title="user">
+                    <span class="glyphicon glyphicon-user">
+                        登陆/注册
+                    </span>
+                </h4>
+                <h4 class="hide modal-title" modal-title="user_info">
+                    <span class="glyphicon glyphicon-user">
+                        用户信息
+                    </span>
+                </h4>
+            </div>
+            <div class="modal-body" modal-body="tips">
+                消息内容
+            </div>
+            <div class="modal-body hide" modal-body="user">
+                <section class="loginBox row-fluid">
+                    <div class="tabbable" id="tabs-634549">
+                        <ul class="nav nav-tabs">
+                            <li class="active">
+                                <a id="login-tab" href="#panel-60560" data-toggle="tab">
+                                    用户登录
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#panel-549981" data-toggle="tab">
+                                    用户注册
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="panel-60560">
+                                <p>
+                                <form class="form-horizontal" id="login" onsubmit="return false;">
+                                    <div class="form-group">
+                                        <label for="username" class="col-sm-3 control-label">
+                                            User
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="input" class="form-control" name="username" id="username" placeholder="用户名/邮箱">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password" class="col-sm-3 control-label">
+                                            Password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password" name="password"
+                                                   placeholder="密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-sm-offset-3 col-sm-8">
+                                            <button type="submit" class="btn btn-primary" id="do_login">
+                                                登录
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                                </p>
+                            </div>
+                            <div class="tab-pane" id="panel-549981">
+                                <p>
+                                <form class="form-horizontal" id="register" onsubmit="return false;">
+                                    <div class="form-group">
+                                        <label for="username1" class="col-sm-3 control-label">
+                                            Username
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="test" class="form-control" name="username1" id="username1"
+                                                   placeholder="用户名">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="email" class="col-sm-3 control-label">
+                                            Email
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="email" class="form-control" name="email" id="email" placeholder="邮箱">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password1" class="col-sm-3 control-label">
+                                            Password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password1" name="password1"
+                                                   placeholder="密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password2" class="col-sm-3 control-label">
+                                            Password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password2" name="password2"
+                                                   placeholder="确认密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="phone" class="col-sm-3 control-label">
+                                            Mobile
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="text" class="form-control" name="phone" id="phone" placeholder="手机">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-sm-offset-3 col-sm-8">
+                                            <button type="submit" id="do_reg" class="btn btn-success">
+                                                注册
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-body hide" modal-body="user_info">
+                <section class="loginBox row-fluid">
+                    <div class="tabbable" id="tabs-634549">
+                        <ul class="nav nav-tabs">
+                            <li class="active">
+                                <a href="#panel-profile" data-toggle="tab">
+                                    概览
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#panel-wallpaper" data-toggle="tab">
+                                    壁纸
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#panel-pass" data-toggle="tab">
+                                    密码
+                                </a>
+                            </li>
+                            <li>
+                                <a id="logout-btn" href="index.php?m=Damalu&c=Index&a=doLogout" title="退出登录">
+                                    登出
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane" id="panel-wallpaper">
+                                    <p>
+                                    <form class="form-horizontal" id="edit_wallpaper" onsubmit="return false;">
+                                        <div class="form-group">
+                                            <label for="header_logo_day" class="col-sm-3 control-label">
+                                                Logo(日)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <div class="input-group">     
+                                                    <input class="form-control" id="header_logo_day" name="header_logo_day" placeholder="Logo图片Url(长宽比例 1:1)"> 
+                                                    <span class="input-group-btn">
+                                                        <input type="file" data-upload="true" name="files[header_logo_day]" class="hide">
+                                                        <button class="btn btn-default" file-btn="true" type="button"><div></div>上传</button>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="header_logo_night" class="col-sm-3 control-label">
+                                                Logo(夜)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <input class="form-control" id="header_logo_night" name="header_logo_night" placeholder="Logo图片(夜间)Url(长宽比例 1:1)">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="day_pc" class="col-sm-3 control-label">
+                                                PC端(日)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <input class="form-control" id="day_pc" name="day_pc"  placeholder="横版日间模式壁纸Url">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="day_mobile" class="col-sm-3 control-label">
+                                                移动端(日)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <input class="form-control" id="day_mobile" name="day_mobile"
+                                                        placeholder="">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="night_pc" class="col-sm-3 control-label">
+                                                PC端(夜)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <input class="form-control" id="night_pc" name="night_pc" placeholder="">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="day_mobile" class="col-sm-3 control-label">
+                                                移动端(夜)
+                                            </label>
+                                            <div class="col-sm-8">
+                                                <input class="form-control" id="night_mobile" name="night_mobile" placeholder="竖版夜间模式壁纸Url">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-sm-offset-3 col-sm-8">
+                                                <button type="submit" class="btn btn-primary" id="update_wallpaper">
+                                                    提交
+                                                </button>
+                                                <a href="https://liulanmi.com/zt/11657.html" class="btn btn-default pull-right" target="_blank">
+                                                    图床推荐
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </form>
+                                    </p>
+                                </div>
+                            <div class="tab-pane" id="panel-pass">
+                                <p>
+                                <form class="form-horizontal" id="edit_user" onsubmit="return false;">
+                                    <div class="form-group">
+                                        <label for="password3" class="col-sm-3 control-label">
+                                            Old password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password3" name="password3"  placeholder="原密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password4" class="col-sm-3 control-label">
+                                            New password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password4" name="password4" placeholder="新密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="password5" class="col-sm-3 control-label">
+                                            New password
+                                        </label>
+                                        <div class="col-sm-8">
+                                            <input type="password" class="form-control" id="password5" name="password5" placeholder="重复新密码">
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="col-sm-offset-3 col-sm-8">
+                                            <button type="submit" class="btn btn-primary" id="update_user">
+                                                提交
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                                </p>
+                            </div>
+                            <div class="tab-pane active" id="panel-profile">
+                                <p>
+                                <ul class="list-group">
+                                    <li class="list-group-item">
+                                        <span class="badge" id="user_info_name">
+                                            unknow
+                                        </span>
+                                        用户名
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge" id="user_info_email">
+                                            unknow
+                                        </span>
+                                        邮箱
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge" id="user_info_phone">
+                                            unknow
+                                        </span>
+                                        手机
+                                    </li>
+                                </ul>
+                                </p>
+                                <p>
+                                <ul class="list-group">
+                                    <li class="list-group-item">
+                                        <span class="badge" id="favorite_total">
+                                            0
+                                        </span>
+                                        书签数目
+                                    </li>
+                                    <li class="list-group-item">
+                                        <span class="badge" id="sync_date">
+                                            0
+                                        </span>
+                                        上次同步
+                                    </li>
+                                </ul>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <div class="modal-body hide" modal-body="setting">
+                <!-- 缓存管理 -->
+                <div class="alert alert-danger" role="alert">
+                    <p>
+                        <strong>数据/缓存:</strong>内容包含 <strong>阅读记录,搜索缓存,收藏,服务器同步数据</strong> 等.
+                    </p>
+                    <p>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon">数据</div>
+                            <select class="form-control" id="clearType">
+                                <option value="search">搜索缓存</option>
+                                <option value="location">本地数据</option>
+                                <option value="server">服务器数据</option>
+                            </select>
+                            <div class="input-group-btn">
+                                <div class="btn-group">
+                                    <button class="btn btn-danger" id="clear-btn">清除</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </p>
+                </div>
+                <!-- 分页设置 -->
+                <div class="alert alert-info" role="alert">
+                    <p>
+                        <strong>
+                            分页数量:
+                        </strong>
+                        <strong>
+                            收藏,历史
+                        </strong>
+                        列表每页显示记录数.
+                    </p>
+                    <p>
+                        搜索列表为采集站点设置的
+                        <strong id="searchFenye">
+                            20
+                        </strong>
+                    </p>
+                    <p>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                分页
+                            </div>
+                            <input class="form-control" id="fenyeTwo" type="number" placeholder="10">
+                            <div class="input-group-btn">
+                                <div class="btn-group">
+                                    <button class="btn btn-info" id="fenye-modif">
+                                        确定
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </p>
+                    <p>
+                        <strong>
+                            搜索线路:
+                        </strong>
+                        搜索无数据时,可尝试切换
+                    </p>
+                    <p>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon">
+                                线路
+                            </div>
+                            <select class="form-control" id="searchType">
+                                <option value="0">
+                                    PC
+                                </option>
+                                <option value="1">
+                                    Mobile
+                                </option>
+                            </select>
+                            <div class="input-group-btn">
+                                <div class="btn-group">
+                                    <button class="btn btn-info" id="search-modif">
+                                        确定
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </p>
+                </div>
+            </div>
+            <div class="modal-footer hide">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">
+                    关闭
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="tool-box">
+        <a data-toggle="modal" id="login-btn" style="z-index: 21;" data-target="#myModal" class="btn btn-success btn-lg" title="登录/注册"><span class="glyphicon glyphicon-log-in"></span><!--登录--></a>        <a data-toggle="modal" id="add-btn" style="z-index: 11;" data-target="#editModal" class="btn btn-success btn-lg" title="添加新图标"><!--添加--><span class="glyphicon glyphicon-plus"></span></a>
+        <a id="manger-btn" style="z-index: 20;" class="btn btn-lg btn-primary" data-toggle="tooltip" data-placement="top" title="进入 增删改/排序 操作"><!--管理--><span class="glyphicon glyphicon-cog"></span></a>
+        <a id="reset-btn" style="z-index: 11;" title="重置默认图标" class="btn  btn-lg btn-warning" ><!--重置--><span class="glyphicon glyphicon-globe"></span></a>
+        <a id="cancel-btn" style="z-index: 11;" class="btn btn-lg btn-warning" data-toggle="tooltip" data-placement="top" title="放弃本次修改"><!--放弃--><span class="glyphicon glyphicon-remove"></span></a>
+    </div>
+
+        <div class="footer-box">
+        <a id="about" target="_blank" href="https://tvbox.woniuxs.dynv6.net" >
+            关于蜗牛导航 /
+        <a id="banquan" href="#" >
+            2015-2024©版权归SMALLK&FL所有 /
+            <a id="hezuo" href="https://yufeikj.eu.org" target="_blank"> ©渝飞科技 </a>
+            <a href="javascript:void(0)" id="nightMode" class='yejian'>夜间模式</a>
+        </a>
+    </div>
+    <script type="text/javascript" src="./Public/damalu/js/index.js?v170829"></script>
+
+    <div style="display: none">
+    	<script src="https://s4.cnzz.com/z_stat.php?id=1260012774&web_id=1260012774 " language="JavaScript" style="display: none;"></script>
+	</div>
+</body>
+</html>
