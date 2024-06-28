@@ -117,7 +117,21 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-    }， 
+    },
+    {
+      "key": "JOJO弹幕",
+      "name": "弹幕｜JOJO",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+           "ext": {
+               "danmu": true
+           },
+           "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;7e44f7c132a6130974ddb22d5fffc742"
+    },
     {
       "key": "酷看",
       "name": "💡酷看┃秒播",
