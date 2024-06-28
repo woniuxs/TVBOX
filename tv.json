@@ -127,10 +127,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;7e44f7c132a6130974ddb22d5fffc742"
+      "ext": {
+          "danmu": true
+     },
+     "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;7e44f7c132a6130974ddb22d5fffc742"
     }， 
     {
       "key": "酷看",
