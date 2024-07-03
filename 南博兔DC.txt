@@ -1,8 +1,12 @@
 {
   "urls": [
     {
+      "name": "南博兔/主力仓",
+      "url": "http://nbt.0000ff.design/huatu.json"
+    },
+    {
       "name": "南博兔①/关注抖音号",
-      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n2.json "
+      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n2.json"
     },
     {
       "name": "南博兔②/1158012313",
