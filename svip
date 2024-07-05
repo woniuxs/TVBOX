@@ -704,6 +704,15 @@
     },
     {
       "key": "fan",
+      "name": "导航www.蜗牛.top",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "fan",
       "name": "蜗牛提醒⏰",
       "type": 3,
       "api": "csp_XPath",
