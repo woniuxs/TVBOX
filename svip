@@ -3,6 +3,14 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "searchable": 0
+    },
+    {
       "key": "豆豆",
       "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
       "type": 3,
