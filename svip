@@ -5,6 +5,7 @@
     {
       "key": "豆豆",
       "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
