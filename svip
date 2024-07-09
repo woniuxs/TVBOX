@@ -11,10 +11,10 @@
       "searchable": 0
     },
     {
-      "key": "豆豆0",
+      "key": "豆豆",
       "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_DouDou0",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
