@@ -21,16 +21,16 @@
       "name": "南博兔④/海量免费软件"
     }, 
     {
-      "name": "蜗牛影视",
+      "name": "🚀蜗牛影视",
       "url": "https://tv.蜗牛.top/svip"
     },
     {
-      "name": "毒盒影视",
+      "name": "🚀毒盒影视",
       "url": "https://tv.youdu.fan:666/毒盒影视/"
     },
     {
       "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-      "name": "🚀天微影视VIP线🚀"
+      "name": "🚀天微影视"
     },
     {
       "url": "https://gitee.com/tvkj/fl/raw/main/svip.json",
