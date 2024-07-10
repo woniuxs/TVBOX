@@ -16,7 +16,7 @@
       "name": "💐云盘丨登录",
       "type": 3,
       "api": "csp_AliYunPan",
-      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -28,7 +28,7 @@
       "name": "🐈配置丨中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -42,7 +42,7 @@
       "name": "🐚韩小圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -53,7 +53,7 @@
       "name": "🐓无忧丨短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "searchable": 1,
       "changeable": 0,
       "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
@@ -79,7 +79,7 @@
       "name": "🐌蜗牛┃弹幕",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
+      "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -87,7 +87,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;7e44f7c132a6130974ddb22d5fffc742"
+            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
     },
     {
       "key": "SP33",
