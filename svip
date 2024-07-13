@@ -35,7 +35,7 @@
           "type": "rect",
           "ratio": 1.597
       },
-      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;c395898df1220ec4f3859f240c301f53"
     },
     {
       "key": "韩小圈",
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;c395898df1220ec4f3859f240c301f53"
     },
     {
       "key": "无忧短剧",
@@ -56,7 +56,7 @@
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;3843f962622e1fa261e6cd26ebbe2807",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+      "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;c395898df1220ec4f3859f240c301f53"
     },
     {
       "key": "玩偶",
@@ -87,7 +87,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;c395898df1220ec4f3859f240c301f53"
     },
     {
       "key": "SP33",
