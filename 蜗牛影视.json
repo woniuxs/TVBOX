@@ -25,7 +25,7 @@
 
 
 {"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://蜗牛.top/lib/采集之王.js?type=url&params=https://蜗牛.top/lib/采集静态.json"},
+{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 
 {"key":"南瓜影视","name":"🍵南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"快看影视","name":"🍵快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -83,13 +83,13 @@
 
 
 
-{"key":"南瓜影视2","name":"🎄南瓜┃影视2","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/南瓜影视.js"},
-{"key":"腾","name":"🎄腾腾┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/腾讯视频.js"},
-{"key":"优","name":"🎄优优┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/优酷视频.js"},
-{"key":"芒","name":"🎄芒芒┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/芒果视频.js"},
-{"key":"狗","name":"🎄狗狗┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/搜狗视频.js"},
-{"key":"爱","name":"🎄爱爱┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/爱奇艺.js"},
-{"key":"三","name":"🎄三六┃影视","type":3,"api":"https://蜗牛.top/lib/drpy2.min.js","ext":"https://蜗牛.top/lib/三六零.js"},
+{"key":"南瓜影视2","name":"🎄南瓜┃影视2","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/南瓜影视.js"},
+{"key":"腾","name":"🎄腾腾┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/腾讯视频.js"},
+{"key":"优","name":"🎄优优┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷视频.js"},
+{"key":"芒","name":"🎄芒芒┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/芒果视频.js"},
+{"key":"狗","name":"🎄狗狗┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/搜狗视频.js"},
+{"key":"爱","name":"🎄爱爱┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/爱奇艺.js"},
+{"key":"三","name":"🎄三六┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/三六零.js"},
 
 
 
