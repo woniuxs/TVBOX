@@ -736,18 +736,18 @@
       "type": 3,
       "url": "Demo"
     },
-        {
-            "name": "推荐1",
-            "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "推荐2",
-            "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
-            "type": "1",
+    {
+         "name": "推荐1",
+         "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
+         "type": "1",
+         "status": "normal",
+         "type_text": "Type 1",
+         "status_text": "正常"
+     },
+     {
+         "name": "推荐2",
+         "url": "https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=",
+         "type": "1",
             "status": "normal",
             "type_text": "Type 1",
             "status_text": "正常"
@@ -841,27 +841,27 @@
                     "referer": "https://jiejie.uk/"
                 }
             }
-        },
-        {
-            "name": "线路5",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "线路6",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        {
-            "name": "线路7",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "线路8",
-            "type": 0,
-            "url": "https://www.ckplayer.vip/jiexi/?url="
-        }，
+    },
+    {
+      "name": "线路5",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "线路6",
+      "type": 0,
+      "url": "https://jx.yangtu.top?url="
+    },
+    {
+      "name": "线路7",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "线路8",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
     {
       "name": "蜗牛科技",
       "type": 1,
