@@ -25,7 +25,7 @@
 
 
 {"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
+{"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
 
 {"key":"南瓜影视","name":"🍵南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"快看影视","name":"🍵快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
