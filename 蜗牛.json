@@ -5,6 +5,8 @@
 "spider":"./woniu.jar","warningText":"【蜗牛影视】提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
+"wallpaper": "https://api.likepoems.com/img/bing",
+"logo": "https://pan.shangui.cc/f/66yatp/t017acbfe7120dcf421.gif",
 
 "lives":[
         {
@@ -13,7 +15,7 @@
             "url": "./lib/live.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
-],
+]，
 
 "sites": [
 {"key":"豆瓣",
@@ -21,7 +23,7 @@
 "type":3,
 "api":"csp_Douban",
 "searchable":0
-},
+}，
 
 
 {"key":"阿里云盘登录","name":"🐲阿里云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
