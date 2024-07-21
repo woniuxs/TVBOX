@@ -79,7 +79,7 @@
     },
     {
       "key": "酷看弹幕",
-      "name": "🐌蜗牛┃弹幕",
+      "name": "🐌蜗牛┃弹幕1",
       "type": 3,
       "api": "csp_Kkys",
       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;f78f6f66df4f43641bd81e88b646d385",
@@ -87,6 +87,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "https://dm2.woniuxs.dynv6.net/danmu.jar;md5;3d2afc747cc1af7d1bdf02af7ffbdeab"
+    },
+    {
+       "key": "南瓜弹幕",
+       "name": "🐌蜗牛｜弹幕2",
+       "type": 3,
+       "api": "csp_Nangua",
+       "jar": "https://dm2.woniuxs.dynv6.net/spider.jar;md5;f78f6f66df4f43641bd81e88b646d385",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
             "ext": {
                 "danmu": true
             },
@@ -695,15 +709,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
-    },
-    {
-      "key": "Nbys",
-      "name": "🛫泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "woniu",
