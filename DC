@@ -1,10 +1,6 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🧡蜗牛纯4k仓🍭蜗牛科技🍭",
-      "sourceUrl": "https://4k.woniuxs.dynv6.net/4k.json"
-    },
-    {
       "sourceName": "💜蜗牛精选仓🍭蜗牛提醒🍭",
       "sourceUrl": "https://tv.蜗牛.top/DS"
     },
@@ -19,6 +15,10 @@
     {
       "sourceName": "❤️蜗牛聚合仓🍭严禁贩卖🍭",
       "sourceUrl": "https://tv.蜗牛.top/JH"
+    },
+    {
+      "sourceName": "🧡蜗牛纯4k仓🍭蜗牛科技🍭",
+      "sourceUrl": "https://4k.woniuxs.dynv6.net/4k.json"
     },
     {
       "sourceName": "💙蜗牛预备仓🍭不做韭菜🍭",
