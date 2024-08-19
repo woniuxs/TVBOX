@@ -19,7 +19,7 @@
       "name": "💐云盘丨登录",
       "type": 3,
       "api": "csp_AliYunPan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -31,35 +31,35 @@
       "name": "🐈配置丨中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "searchable": 0,
       "changeable": 0,
       "style": {
           "type": "rect",
           "ratio": 1.597
       },
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7"
+      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "韩小圈",
       "name": "🐚韩小圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7"
+      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "无忧短剧",
       "name": "🐓无忧丨短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7"
+      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "玩偶",
@@ -82,7 +82,7 @@
       "name": "🐌蜗牛┃弹幕1",
       "type": 3,
       "api": "csp_Kkys",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -90,21 +90,21 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://dm2.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7"
+            "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
        "key": "南瓜弹幕",
        "name": "🐌蜗牛｜弹幕2",
        "type": 3,
        "api": "csp_Nangua",
-       "jar": "https://dm2.蜗牛.top/spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
+       "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
             "ext": {
                 "danmu": true
             },
-            "jar": "https://dm2.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7"
+            "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "SP33",
