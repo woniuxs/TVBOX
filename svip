@@ -790,6 +790,18 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
     {
+      "key":"学外语",
+      "name":"🇹┃教育专区┃外语",
+      "type":3,
+      "api":"csp_Bili",
+      "jar": "./lib/woniu.jar",
+      "searchable":1,
+      "ua": "okhttp/3.15",
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./lib/waiyu.json"
+    }，
+    {
       "key": "woniu",
       "name": "导航www.蜗牛.top",
       "type": 3,
