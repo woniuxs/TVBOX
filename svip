@@ -38,7 +38,6 @@
           "type": "rect",
           "ratio": 1.597
       },
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
     },
     {
       "key": "韩小圈",
@@ -48,8 +47,7 @@
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+      "filterable": 1
     },
     {
       "key": "无忧短剧",
@@ -59,7 +57,10 @@
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
     },
     {
       "key": "新感觉",
