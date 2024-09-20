@@ -19,7 +19,7 @@
       "name": "💐云盘丨登录",
       "type": 3,
       "api": "csp_AliYunPan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -31,7 +31,7 @@
       "name": "🐈配置丨中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -45,7 +45,7 @@
       "name": "🐚韩小圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -56,10 +56,21 @@
       "name": "🐓无忧丨短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
       "searchable": 1,
       "changeable": 0,
       "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
+    },
+    {
+      "key": "新感觉",
+      "name": "新感觉｜APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.100.147:9891/api.php/app/"
     },
     {
       "key": "玩偶",
@@ -78,26 +89,11 @@
       }
     },
     {
-      "key": "酷看弹幕",
-      "name": "🐌蜗牛┃弹幕1",
-      "type": 3,
-      "api": "csp_Kkys",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://dm2.蜗牛.top/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
-    },
-    {
        "key": "南瓜弹幕",
-       "name": "🐌蜗牛｜弹幕2",
+       "name": "🐌蜗牛｜弹幕",
        "type": 3,
        "api": "csp_Nangua",
-       "jar": "https://dm2.蜗牛.top/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
