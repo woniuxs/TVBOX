@@ -51,6 +51,17 @@
       }
     },
     {
+      "key": "csp_瓜子",
+      "name": "瓜子影视┃秒播",
+      "api": "csp_Gz360",
+      "jar": "./lib/xm.jar",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0
+    },
+    {
       "key": "新感觉",
       "name": "新感觉｜APP",
       "type": 3,
