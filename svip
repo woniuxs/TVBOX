@@ -858,6 +858,38 @@
       "type": 3,
       "url": "Demo"
     },
+    {
+      "name": "聚合web",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "zhuimi-super",
+      "type": 1,
+      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
         {
             "name": "推荐1",
             "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
