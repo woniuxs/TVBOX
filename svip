@@ -800,7 +800,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./lib/waiyu.json"
-    }，
+    },
     {
       "key": "woniu",
       "name": "导航www.蜗牛.top",
