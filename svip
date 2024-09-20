@@ -78,6 +78,20 @@
       }
     },
     {
+        "key": "荐片弹幕",
+        "name": "荐片｜弹幕",
+        "type": 3,
+        "api": "csp_Jianpian",
+        "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+        "playerType": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+            "ext": {
+                "danmu": true
+      }
+    },
+    {
        "key": "南瓜弹幕",
        "name": "🐌蜗牛｜弹幕",
        "type": 3,
@@ -88,7 +102,7 @@
        "filterable": 1,
             "ext": {
                 "danmu": true
-            },
+            }
     },
     {
       "key": "SP33",
