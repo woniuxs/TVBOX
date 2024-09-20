@@ -52,7 +52,7 @@
     },
     {
       "key": "csp_瓜子",
-      "name": "瓜子影视┃秒播",
+      "name": "🐇瓜子影视┃秒播",
       "api": "csp_Gz360",
       "jar": "./lib/xm.jar",
       "type": 3,
@@ -63,7 +63,7 @@
     },
     {
       "key": "新感觉",
-      "name": "新感觉｜APP",
+      "name": "🐈新感觉｜APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
@@ -89,7 +89,7 @@
     },
     {
         "key": "荐片弹幕",
-        "name": "荐片｜弹幕",
+        "name": "💨荐片｜弹幕",
         "type": 3,
         "api": "csp_Jianpian",
         "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
@@ -124,6 +124,41 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "农民影视",
+      "name": "💗理想影视┃秒播",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "✨YY影视✨",
+      "name": "💭蜗牛专享┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/woniu.jar",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "蜗牛专享✨+module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "蜗牛✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "天微✨+>&&</",
+        "简介": "【公众号：蜗牛科技仓】提醒：请勿相信视频里的广告！+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      }
     },
     {
       "key": "YGP",
