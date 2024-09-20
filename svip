@@ -135,6 +135,17 @@
       "changeable": 1
     },
     {
+      "key": "摸鱼瓜子",
+      "name": "❤️嗑嗑瓜子┃2K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+    },
+    {
       "key": "✨YY影视✨",
       "name": "💭蜗牛专享┃秒播",
       "type": 3,
