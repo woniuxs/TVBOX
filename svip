@@ -16,7 +16,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🫂配置丨中心",
+      "name": "🚦配置丨中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
