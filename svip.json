@@ -68,7 +68,7 @@
       "key": "csp_瓜子",
       "name": "🐇瓜子影视┃秒播",
       "api": "csp_Gz360",
-      "jar": "./lib/xm.jar",
+      "jar": "https://tv.xn--11x555b.top/lib/xm.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -176,7 +176,7 @@
       "name": "💭蜗牛专享┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/woniu.jar",
+      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
