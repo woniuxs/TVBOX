@@ -143,10 +143,11 @@
       "key": "农民影视",
       "name": "👩🏻‍🌾农民┃秒播",
       "type": 3,
-      "api": "csp_WexNmys",
-      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "api": "csp_Nongm",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "摸鱼瓜子",
