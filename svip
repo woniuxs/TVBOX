@@ -140,6 +140,16 @@
       "changeable": 0
     },
     {
+      "key": "天天影视",
+      "name": "🚝天天｜APP",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "农民影视",
       "name": "👩🏻‍🌾农民┃秒播",
       "type": 3,
@@ -264,17 +274,6 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
-    },
-    {
-      "key": "Zx4k",
-      "name": "🚝专线┃秒播",
-      "type": 3,
-      "api": "csp_Zx4k",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "原创",
