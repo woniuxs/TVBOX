@@ -19,7 +19,7 @@
       "name": "🚦配置丨中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -32,7 +32,7 @@
       "name": "🐚韩小圈",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -42,7 +42,7 @@
       "name": "🐓无忧丨短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -55,7 +55,7 @@
       "name": "🛌在线┃短剧",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -68,7 +68,7 @@
       "key": "csp_瓜子",
       "name": "🐇瓜子影视┃秒播",
       "api": "csp_Gz360",
-      "jar": "https://tv.xn--11x555b.top/lib/xm.jar",
+      "jar": "./lib/xm.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -80,11 +80,11 @@
       "name": "🐈新感觉｜APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://43.248.100.147:9891/api.php/app/"
+      "ext": "http://43.248.100.147:9892/api.php/app/"
     },
     {
       "key": "玩偶",
@@ -106,7 +106,7 @@
         "name": "💨荐片｜弹幕",
         "type": 3,
         "api": "csp_Jianpian",
-        "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+        "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
         "playerType": 1,
         "searchable": 1,
         "quickSearch": 1,
@@ -120,7 +120,7 @@
        "name": "🐌蜗牛｜弹幕",
        "type": 3,
        "api": "csp_Nangua",
-       "jar": "https://dm2.蜗牛.top/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+       "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
@@ -143,10 +143,11 @@
       "key": "农民影视",
       "name": "👩🏻‍🌾农民┃秒播",
       "type": 3,
-      "api": "csp_WexNmys",
-      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "api": "csp_Nongm",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
       "searchable": 1,
-      "changeable": 1
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "摸鱼瓜子",
@@ -161,7 +162,7 @@
     },
     {
       "key": "醉挽清风",
-      "name": "🌬️清风┃4K纯净",
+      "name": "🌬️蜗牛┃4K纯净",
       "type": 3,
       "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
@@ -176,7 +177,7 @@
       "name": "💭蜗牛专享┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
+      "jar": "./lib/woniu.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -980,6 +981,142 @@
                     "User-Agent": "Dalvik/2.1.0"
                 }
             }
+        },
+        {
+            "name": "XG蓝光",
+            "url": "http://43.248.100.147:6068/bba/xgjjiexi.php?url=",
+            "flag": [
+                "BBA"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XM蓝光",
+            "url": "http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MX蓝光",
+            "url": "http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
+            "flag": [
+                "MXTV"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "LX蓝光",
+            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "flag": [
+                "LXTX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "TX蓝光",
+            "url": "http://43.248.100.147:9527/jx.php?url=",
+            "flag": [
+                "TX"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MY蓝光",
+            "url": "http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=",
+            "flag": [
+                "mytv",
+                "nmys",
+                "yhdm"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "BN蓝光",
+            "url": "http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=",
+            "flag": [
+                "BNNB"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "DJ专线",
+            "url": "http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=",
+            "flag": [
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ官解",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/gg.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "sohu",
+                "letv",
+                "xigua"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "XGJ聚合",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/k.php?url=",
+            "flag": [
+                "youku",
+                "qq",
+                "qiyi",
+                "bilibili",
+                "mgtv",
+                "pptv",
+                "xigua",
+                "NBY",
+                "ETH-",
+                "BBA",
+                "LXTX",
+                "TX",
+                "MXTV",
+                "mytv",
+                "nmys",
+                "yhdm",
+                "BNNB",
+                "duanju"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
         {
             "name": "线路1",
