@@ -68,7 +68,7 @@
       "key": "csp_瓜子",
       "name": "🐇瓜子影视┃秒播",
       "api": "csp_Gz360",
-      "jar": "./lib/xm.jar",
+      "jar": "https://tv.xn--11x555b.top/lib/xm.jar",
       "type": 3,
       "searchable": 1,
       "playerType": 2,
@@ -901,12 +901,12 @@
       "name":"📚外语┃教育",
       "type":3,
       "api":"csp_Bili",
-      "jar": "./lib/woniu.jar",
+      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
       "searchable":1,
       "ua": "okhttp/3.15",
       "quickSearch":1,
       "filterable":1,
-      "ext":"./lib/waiyu.json"
+      "ext":"https://tv.xn--11x555b.top/lib/waiyu.json"
     },
     {
       "key": "woniu",
