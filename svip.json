@@ -76,17 +76,6 @@
       "changeable": 0
     },
     {
-      "key": "新感觉",
-      "name": "🐈新感觉｜APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.100.147:9892/api.php/app/"
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -144,16 +133,6 @@
       "name": "🚝天天｜APP",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "农民影视",
-      "name": "👩🏻‍🌾农民┃秒播",
-      "type": 3,
-      "api": "csp_Nongm",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
       "searchable": 1,
       "quickSearch": 1,
@@ -316,6 +295,26 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
+    },
+    {
+      "key": "木星",
+      "name": "🌞木星┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    },
+    {
+      "key": "速播",
+      "name": "⏮️速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
     },
     {
       "key": "Lib",
