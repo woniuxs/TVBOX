@@ -39,27 +39,27 @@
       "key": "腾讯22",
       "name": "🏆蜗牛4k-vip2",
       "type": 3,
-      "api": "./4k/js3/drpy2.min.js",
-      "jar": "./4k/jar/0125.jar",
+      "api": "https://tv.xn--11x555b.top/4k/js3/drpy2.min.js",
+      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "./4k/lib/腾云驾雾_官_.js"
+      "ext": "https://tv.xn--11x555b.top/4k/lib/腾云驾雾_官_.js"
     },
     {
       "key": "hipy_js_百忙无果[官]",
       "name": "🏆蜗牛4k-vip3",
       "type": 3,
-      "api": "./4k/js4/drpy2.min.js",
-      "jar": "./4k/jar/0125.jar",
+      "api": "https://tv.xn--11x555b.top/4k/js4/drpy2.min.js",
+      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./4k/lib/百忙无果_官_.js"
+      "ext": "https://tv.xn--11x555b.top/4k/lib/百忙无果_官_.js"
     },
     {
       "key": "涛涛影院4k2",
