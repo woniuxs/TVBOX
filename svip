@@ -28,27 +28,19 @@
       }
     },
     {
-      "key": "韩小圈",
-      "name": "🐚韩小圈",
-      "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "腾讯",
-      "name": "🏆4k-vip1",
+      "name": "🏆蜗牛4k-vip1",
       "type": 3,
+      "jar": "./4k/jar/0125.jar",
       "api": "./4k/js2/drpy2.min.js",
       "ext": "./4k/lib/腾讯22.js"
     },
     {
       "key": "腾讯22",
-      "name": "🏆4k-vip2",
+      "name": "🏆蜗牛4k-vip2",
       "type": 3,
       "api": "./4k/js3/drpy2.min.js",
+      "jar": "./4k/jar/0125.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -58,9 +50,10 @@
     },
     {
       "key": "hipy_js_百忙无果[官]",
-      "name": "🏆4k-vip3",
+      "name": "🏆蜗牛4k-vip3",
       "type": 3,
       "api": "./4k/js4/drpy2.min.js",
+      "jar": "./4k/jar/0125.jar",
       "playerType": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -70,7 +63,7 @@
     },
     {
       "key": "涛涛影院4k2",
-      "name": "🏆4k-vip4",
+      "name": "🏆蜗牛4k-vip4",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./4k/jar/tz0629.jar",
@@ -81,9 +74,10 @@
     },
     {
       "key": "影酷新4K",
-      "name": "🏆4k-vip5",
+      "name": "🏆蜗牛4k-vip5",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./4k/jar/0125.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -91,7 +85,7 @@
     },
     {
       "key": "原4k",
-      "name": "🏆4k-vip6",
+      "name": "🏆蜗牛4k-vip6",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./4k/jar/tz0629.jar",
@@ -99,6 +93,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./4k/json/原4k.json"
+    },
+    {
+      "key": "韩小圈",
+      "name": "🐚韩小圈",
+      "type": 3,
+      "api": "csp_HanXiaoQuan",
+      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "无忧短剧",
