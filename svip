@@ -31,9 +31,9 @@
       "key": "腾讯",
       "name": "🏆蜗牛4k-vip1",
       "type": 3,
-      "jar": "./4k/jar/0125.jar",
-      "api": "./4k/js2/drpy2.min.js",
-      "ext": "./4k/lib/腾讯22.js"
+      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
+      "api": "https://tv.xn--11x555b.top/4k/js2/drpy2.min.js",
+      "ext": "https://tv.xn--11x555b.top/4k/lib/腾讯22.js"
     },
     {
       "key": "腾讯22",
