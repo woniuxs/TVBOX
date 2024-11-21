@@ -941,6 +941,35 @@
       "url": "Web"
     },
     {
+      "name":"📦蜗牛4k会员",
+      "type": 1,
+      "url":"http://122.228.85.203:7979/api/?key=1e80ebbfedd4c37ed312c52092edd963&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+       ],
+       "header": {
+         "User-Agent": "okhttp/4.1.0"
+       }
+      }
+    },
+    {
       "name": "推荐",
       "type": 1,
       "url": "https://jxjson.icu/neibu.php?url=",
