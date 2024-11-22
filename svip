@@ -513,73 +513,6 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "腾讯",
-      "name": "🏆蜗牛4k-vip1",
-      "type": 3,
-      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
-      "api": "https://tv.xn--11x555b.top/4k/js2/drpy2.min.js",
-      "ext": "https://tv.xn--11x555b.top/4k/lib/腾讯22.js"
-    },
-    {
-      "key": "腾讯22",
-      "name": "🏆蜗牛4k-vip2",
-      "type": 3,
-      "api": "https://tv.xn--11x555b.top/4k/js3/drpy2.min.js",
-      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://tv.xn--11x555b.top/4k/lib/腾云驾雾_官_.js"
-    },
-    {
-      "key": "hipy_js_百忙无果[官]",
-      "name": "🏆蜗牛4k-vip3",
-      "type": 3,
-      "api": "https://tv.xn--11x555b.top/4k/js4/drpy2.min.js",
-      "jar": "https://tv.xn--11x555b.top/4k/jar/0125.jar",
-      "playerType": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://tv.xn--11x555b.top/4k/lib/百忙无果_官_.js"
-    },
-    {
-      "key": "涛涛影院4k2",
-      "name": "🏆蜗牛4k-vip4",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./4k/jar/tz0629.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./4k/json/探探影院4k.json"
-    },
-    {
-      "key": "影酷新4K",
-      "name": "🏆蜗牛4k-vip5",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./4k/jar/0125.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./4k/json/影酷新4k.json"
-    },
-    {
-      "key": "原4k",
-      "name": "🏆蜗牛4k-vip6",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./4k/jar/tz0629.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./4k/json/原4k.json"
-    },
-    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -1006,35 +939,6 @@
       "name": "聚合web",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name":"📦蜗牛4k会员",
-      "type": 1,
-      "url":"http://122.228.85.203:7979/api/?key=1e80ebbfedd4c37ed312c52092edd963&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-       ],
-       "header": {
-         "User-Agent": "okhttp/4.1.0"
-       }
-      }
     },
     {
       "name": "推荐",
