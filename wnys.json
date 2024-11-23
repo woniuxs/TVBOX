@@ -7,37 +7,20 @@
       "api": "https://dy.5209426.xyz/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "电影",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "动漫"
-      ]
+      "filterable": 0
     }
   ],
   "lives": [
     {
-      "group": "自定义",
+      "group": "live",
       "channels": [
         {
           "name": "直播源",
           "urls": [
-            "about:blank"
+            "http://rihou.cc:55/lib/kx2024.txt"
           ]
         }
       ]
-    }
-  ],
-  "parses": [
-    {
-      "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
     }
   ],
   "flags": [
