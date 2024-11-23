@@ -10,19 +10,6 @@
       "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "group": "live",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "http://rihou.cc:55/lib/kx2024.txt"
-          ]
-        }
-      ]
-    }
-  ],
   "flags": [
     "youku",
     "qq",
