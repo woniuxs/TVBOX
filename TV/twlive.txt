@@ -249,7 +249,7 @@ CCTV17,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010210/
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 
 
-📡咪咕频道👉全网,#genre#
+📡咪咕频道,#genre#
 
 CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
 CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
