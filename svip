@@ -324,15 +324,15 @@
       }
     },
     {
-      "key": "原创",
+      "key": "星火4k",
       "name": "☀原创┃不卡",
       "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://tv.xn--11x555b.top/4k/jar/tz0629.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "https://tv.xn--11x555b.top/4k/json/星火4k.json"
     },
     {
       "key": "苹果",
