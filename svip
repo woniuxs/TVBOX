@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
+      "name": "豆瓣推荐┃公众号【蜗牛科技仓】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -16,7 +16,7 @@
     },
     {
       "key": "配置中心",
-      "name": "🚦配置丨中心",
+      "name": "🚦配置┃中心",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -28,18 +28,20 @@
       }
     },
     {
-      "key": "韩小圈",
-      "name": "🐚韩小圈",
+      "key": "韩圈",
+      "name": "🐚韩圈┃App",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732006789516/ojpg.txt;md5;325f01f06d650401452dfdafdb848c7d",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "timeout": 10
     },
     {
       "key": "无忧短剧",
-      "name": "🐓无忧丨短剧",
+      "name": "🐓无忧┃短剧",
       "type": 3,
       "api": "csp_Duanj",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -92,7 +94,7 @@
     },
     {
         "key": "荐片弹幕",
-        "name": "💨荐片｜弹幕",
+        "name": "💨荐片┃弹幕",
         "type": 3,
         "api": "csp_Jianpian",
         "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -106,7 +108,7 @@
     },
     {
        "key": "南瓜弹幕",
-       "name": "🐌蜗牛｜弹幕",
+       "name": "🐌蜗牛┃弹幕",
        "type": 3,
        "api": "csp_Nangua",
        "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -130,7 +132,7 @@
     },
     {
       "key": "天天影视",
-      "name": "🚝天天｜APP",
+      "name": "🚝天天┃APP",
       "type": 3,
       "api": "csp_AppTT",
       "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -195,7 +197,7 @@
       "name": "🐰木耳┃秒播",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386439078/okjpg.txt;md5;4b6b5f2b8210c4e239007d0e49558fce",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732006789516/ojpg.txt;md5;325f01f06d650401452dfdafdb848c7d",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
