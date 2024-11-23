@@ -377,15 +377,13 @@
       "changeable": 1
     },
     {
-      "key": "蛋蛋",
-      "name": "🍓蛋蛋┃多线",
-      "type": 3,
-      "api": "csp_Cddys",
-      "timeout": 15,
-      "playerType": 2,
+      "key": "wnys",
+      "name": "🍓蜗牛┃多线",
+      "type": 0,
+      "api": "https://dy.5209426.xyz/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 0
     },
     {
       "key": "文采",
