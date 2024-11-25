@@ -6,26 +6,6 @@
   📢长期维护切勿贩卖",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "📢公告❤更新:11/24",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
-      "searchable": 1,"quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://tv.xn--11x555b.top/4K/json/xhdb.json"
-    }, 
-    {
-      "key":"豆瓣1",
-      "name":"📢公告❤更新:11/24❤",
-      "type":3,
-      "api":"csp_Notice",
-      "searchable":0,
-      "changeable": 0,
-      "jar":"https://xn--pnnp-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
-    },
-    {
       "key": "豆豆",
       "name": "豆瓣推荐┃公众号【蜗牛科技仓】",
       "type": 3,
@@ -33,7 +13,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },       
+    },
+    {
+      "key": "豆瓣",
+      "name": "📢公告❤更新:11/24",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "./4K/jar/xhpmd.jar",
+      "searchable": 1,"quickSearch": 0,
+      "filterable": 1,
+      "ext": "./4K/json/xhdb.json"
+    }, 
     {
       "key": "配置中心",
       "name": "🚦配置┃中心",
