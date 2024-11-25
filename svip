@@ -141,17 +141,6 @@
       "changeable": 0
     },
     {
-      "key": "Sp360",
-      "name": "📺360┃解析",
-      "type": 3,
-      "api": "csp_Sp360",
-      "jar": "https://xn--11x555b.top/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "天天影视",
       "name": "🚝天天┃APP",
       "type": 3,
@@ -969,6 +958,35 @@
       "name": "聚合web",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "臻享",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
     },
     {
       "name": "推荐",
