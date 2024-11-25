@@ -2,22 +2,22 @@
   "urls": [
     {
       "name": "南博兔/主力仓",
-      "url": "http://nbt.0000ff.design/huatu.json"
+      "url": "http://woniu.ccccocccc.cc/nbt.txt"
     },
     {
       "name": "南博兔①/关注抖音号",
-      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n2.json"
+      "url": "http://woniu.ccccocccc.cc/nbt.txt"
     },
     {
       "name": "南博兔②/1158012313",
-      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n22.json"
+      "url": "http://woniu.ccccocccc.cc/nbt.txt"
     },
     {
-      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n2.json",
+      "url": "http://woniu.ccccocccc.cc/nbt.txt",
       "name": "南博兔③/各种高配机顶盒"
     },
     {
-      "url": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/n2.json",
+      "url": "http://woniu.ccccocccc.cc/nbt.txt",
       "name": "南博兔④/海量免费软件"
     }, 
     {
