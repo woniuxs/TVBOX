@@ -141,6 +141,17 @@
       "changeable": 0
     },
     {
+      "key": "Sp360",
+      "name": "📺360┃解析",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "https://xn--11x555b.top/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "天天影视",
       "name": "🚝天天┃APP",
       "type": 3,
