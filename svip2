@@ -6,15 +6,6 @@
   📢长期维护切勿贩卖",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "豆瓣推荐┃公众号【蜗牛科技仓】",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "豆瓣",
       "name": "📢公告❤更新:11/24",
       "type": 3,
@@ -23,7 +14,16 @@
       "searchable": 1,"quickSearch": 0,
       "filterable": 1,
       "ext": "https://tv.xn--11x555b.top/4K/json/xhdb.json"
-    },        
+    }, 
+    {
+      "key": "豆豆",
+      "name": "豆瓣推荐┃公众号【蜗牛科技仓】",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },       
     {
       "key": "配置中心",
       "name": "🚦配置┃中心",
