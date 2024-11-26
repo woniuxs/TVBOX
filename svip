@@ -16,16 +16,6 @@
       "ext": "./4K/json/wnkj.json"
     },
     {
-      "key": "豆瓣",
-      "name": "📢公告❤更新:11/25❤",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./4K/jar/xhpmd.jar",
-      "searchable": 1,"quickSearch": 0,
-      "filterable": 1,
-      "ext": "./4K/json/wnkj.json"
-    }, 
-    {
       "key": "配置中心",
       "name": "🚦配置┃中心",
       "type": 3,
