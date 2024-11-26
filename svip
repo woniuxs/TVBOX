@@ -16,13 +16,14 @@
     },
     {
       "key": "豆瓣",
-      "name": "📢公告❤更新:11/25❤",
+      "name": "📢公告❤更新:11/26❤",
       "type": 3,
       "api": "csp_Douban",
-      "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
-      "searchable": 1,"quickSearch": 0,
+      "jar": "./4K/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
+      "ext": "./4K/json/wnkj.json"
     }, 
     {
       "key": "配置中心",
