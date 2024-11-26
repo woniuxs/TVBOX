@@ -12,9 +12,18 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
+      "filterable": 0
     },
+    {
+      "key": "豆瓣",
+      "name": "📢公告❤更新:11/25❤",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
+      "searchable": 1,"quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
+    }, 
     {
       "key": "配置中心",
       "name": "🚦配置┃中心",
@@ -667,6 +676,16 @@
         "ratio": 1.755
       },
       "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "聚短视频js",
+      "name": "📽️聚短┃视频",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
