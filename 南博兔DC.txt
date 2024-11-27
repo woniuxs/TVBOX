@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "南博兔/主力仓",
-      "url": "http://woniu.ccccocccc.cc/nbt.txt"
+      "url": "https://9877.kstore.space/FourD/api.json"
     },
     {
       "name": "南博兔①/关注抖音号",
