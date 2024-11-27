@@ -268,6 +268,17 @@
       }
     },
     {
+      "key": "nfys",
+      "name": "🥈奈飞┃专线",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
       "type": 3,
@@ -677,16 +688,6 @@
         "ratio": 1.755
       },
       "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "聚短视频js",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -1289,7 +1290,7 @@
     {
       "name": "蜗牛科技",
       "type": 1,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",
       "ext": {
         "flag": [
           "qq",
