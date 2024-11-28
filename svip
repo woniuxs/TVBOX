@@ -108,7 +108,7 @@
         "name": "💨荐片┃弹幕",
         "type": 3,
         "api": "csp_Jianpian",
-        "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+        "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
         "playerType": 1,
         "searchable": 1,
         "quickSearch": 1,
@@ -116,19 +116,6 @@
             "ext": {
                 "danmu": true
       }
-    },
-    {
-       "key": "南瓜弹幕",
-       "name": "🐌蜗牛┃弹幕",
-       "type": 3,
-       "api": "csp_Nangua",
-       "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
     },
     {
       "key": "南瓜弹幕",
@@ -184,7 +171,7 @@
     },
     {
       "key": "糯米弹幕",
-      "name": "🦬糯米｜弹幕",
+      "name": "🍚糯米｜弹幕",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
@@ -224,7 +211,42 @@
       "name": "🚝天天┃APP",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "西瓜视频",
+      "name": "🍉西瓜｜视频",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "凡人影视",
+      "name": "🐧凡人｜APP",
+      "type": 3,
+      "api": "csp_AppFr",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "农民影视",
+      "name": "🦢农民｜影视",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "type": 3,
+      "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
