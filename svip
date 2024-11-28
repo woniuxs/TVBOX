@@ -131,6 +131,84 @@
             }
     },
     {
+      "key": "南瓜弹幕",
+      "name": "🐚南瓜｜弹幕",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "厂长弹幕",
+      "name": "🐷厂长｜弹幕",
+      "type": 3,
+      "api": "csp_Czzy",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "天天弹幕",
+      "name": "🐹天天｜弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "热播弹幕",
+      "name": "🐶热播｜弹幕",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "type": 3,
+      "api": "csp_ReBo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "糯米弹幕",
+      "name": "🦬糯米｜弹幕",
+      "type": 3,
+      "api": "csp_Nmys",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "文才弹幕",
+      "name": "🌸文才｜弹幕",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
       "key": "SP33",
       "name": "📺蜗牛┃解析",
       "type": 3,
