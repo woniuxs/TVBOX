@@ -30,7 +30,7 @@
       "name": "🚦配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -55,7 +55,7 @@
       "name": "🐓无忧┃短剧",
       "type": 3,
       "api": "csp_Duanj",
-      "jar": "https://dm2.蜗牛.top/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+      "jar": "https://tv.蜗牛.top/jar/spider.txt;md5;6d57e45f82ecaafa0a8bbca54a15fe53",
       "searchable": 1,
       "changeable": 0,
       "style": {
