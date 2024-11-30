@@ -232,14 +232,15 @@
       }
     },
     {
-      "key": "凡人影视",
-      "name": "🐧凡人｜APP",
+      "key": "奇优影视",
+      "name": "🐧奇优｜影视",
       "type": 3,
-      "api": "csp_AppFr",
+      "api": "csp_Qiyou",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;6bf1cb759a7caf7c44843fc3dae67739",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://www.dyxz2.com/"
     },
     {
       "key": "农民影视",
@@ -461,17 +462,6 @@
       }
     },
     {
-      "key": "星火4k",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://tv.xn--11x555b.top/4k/jar/tz0629.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tv.xn--11x555b.top/4k/json/星火4k.json"
-    },
-    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
@@ -646,6 +636,14 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "56动漫",
+      "name": "56｜动漫",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;6bf1cb759a7caf7c44843fc3dae67739",
+      "type": 3,
+      "api": "aHR0cHM6Ly9naXRlZS5jb20vUGl6YXp6WFMvZm91ci1kL3Jhdy9tYXN0ZXIvanMvZHJweTIubWluLmpz",
+      "ext": "aHR0cHM6Ly9naXRlZS5jb20vUGl6YXp6WFMvZm91ci1kL3Jhdy9tYXN0ZXIvYW5pbWUvanMvNTZETS5qcw=="
     },
     {
       "key": "Dm84",
