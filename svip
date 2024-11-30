@@ -639,11 +639,11 @@
     },
     {
       "key": "56动漫",
-      "name": "56｜动漫",
+      "name": "☀56｜动漫",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;6bf1cb759a7caf7c44843fc3dae67739",
       "type": 3,
-      "api": "aHR0cHM6Ly9naXRlZS5jb20vUGl6YXp6WFMvZm91ci1kL3Jhdy9tYXN0ZXIvanMvZHJweTIubWluLmpz",
-      "ext": "aHR0cHM6Ly9naXRlZS5jb20vUGl6YXp6WFMvZm91ci1kL3Jhdy9tYXN0ZXIvYW5pbWUvanMvNTZETS5qcw=="
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/56DM.js"
     },
     {
       "key": "Dm84",
