@@ -2723,6 +2723,40 @@ CCTV6影视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw174414158
 
 
 🛰IPV6综合,#genre#
+CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+NewTV爱情喜剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000104/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV超级电视剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV超级电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV超级体育,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV超级综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV潮妈辣婆,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000099/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV东北热剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000092/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV动作电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000106/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV古装剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000105/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV欢乐剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000091/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV家庭剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000108/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV金牌综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV惊悚悬疑,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV精品大剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000100/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV精品纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV精品萌宠,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000122/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV精品体育,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000102/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV精品综合,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV军旅剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000107/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV军事评论,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000110/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV农业致富,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000111/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV热播精选,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000115/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV武搏世界,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000114/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV炫舞未来,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000098/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV怡伴健康,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000103/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+NewTV中国功夫,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000101/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+SiTV都市剧场,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002022/index.m3u8?IASHttpSessionId=
+黑莓电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000088
+精彩影视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002012/index.m3u8?IASHttpSessionId=
+梨园频道,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000656/index.m3u8?IASHttpSessionId=
+
 
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?
@@ -5188,6 +5222,25 @@ TVB经典剑客与灵童,https://hxf1130.gzc.svp.tencent-cloud.com//0bc3fialgaaa
 
 🎬电影轮播,#genre#
 换成EXO解码,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+
+周星驰电影,http://rihou.cc:555/hy.php?id=11342412
+林正英电影,http://rihou.cc:555/hy.php?id=11342421
+刘德华电影,http://rihou.cc:555/hy.php?id=11342424
+古天乐电影,http://rihou.cc:555/hy.php?id=29982675
+成龙电影,http://jiaojirentv.top/2020/dy.php?id=3379942
+李连杰电影,http://rihou.cc:555/hy.php?id=11342390
+甄子丹电影,http://rihou.cc:555/hy.php?id=11352935
+沈腾电影,http://rihou.cc:555/hy.php?id=11601968
+黄渤电影,http://rihou.cc:555/hy.php?id=11352876
+强森电影,http://rihou.cc:555/hy.php?id=21059581
+王晶电影,http://rihou.cc:555/hy.php?id=11602058
+金庸武侠,http://rihou.cc:555/hy.php?id=11342435
+功夫电影,http://rihou.cc:555/hy.php?id=11352941
+贺岁电影,http://rihou.cc:555/hy.php?id=11601986
+X战警电影,http://jiaojirentv.top/2020/dy.php?id=9651304
+欧美大片,http://jiaojirentv.top/2020/dy.php?id=2793084
+
+
 
 周星驰,http://120.77.28.4:8648/huya.php?id=11342412
 许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
