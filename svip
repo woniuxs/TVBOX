@@ -780,7 +780,7 @@
     },
     {
       "key": "Alllive",
-      "name": "聚合｜直播‍",
+      "name": "🏳️‍🌈聚合｜直播‍",
       "type": 3,
       "api": "csp_Wexalllive",
       "searchable": 1,
@@ -789,7 +789,7 @@
     },
     {
       "key": "IKTV",
-      "name": "KTV｜音乐",
+      "name": "🎵KTV｜音乐",
       "type": 3,
       "api": "csp_WexIktv",
       "searchable": 1,
