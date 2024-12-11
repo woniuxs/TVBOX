@@ -544,12 +544,12 @@
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"
     },
     {
-      "key": "搜狗",
+      "key": "搜狗视频",
       "name": "🐶搜狗｜弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/woniu",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://tv.xn--11x555b.top/EXT/搜狗.js"
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/SGSP.js"
     },
     {
       "key": "zxzj",
@@ -778,6 +778,24 @@
       "ext": {
         "json": "https://tv.xn--11x555b.top/EXT/MTV.json"
       }
+    },
+    {
+      "key": "Alllive",
+      "name": "聚合｜直播‍",
+      "type": 3,
+      "api": "csp_Wexalllive",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+    },
+    {
+      "key": "IKTV",
+      "name": "KTV｜音乐",
+      "type": 3,
+      "api": "csp_WexIktv",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt;md5;cae606af0c0d24a48ce5e0387c8c18cb"
     },
     {
       "key": "csp_Yj1211",
