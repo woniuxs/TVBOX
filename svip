@@ -544,6 +544,14 @@
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"
     },
     {
+      "key": "搜狗",
+      "name": "🐶搜狗｜弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/woniu",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://tv.xn--11x555b.top/EXT/搜狗.js"
+    },
+    {
       "key": "zxzj",
       "name": "🍊在线┃外剧",
       "type": 3,
