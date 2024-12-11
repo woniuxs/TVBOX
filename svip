@@ -517,7 +517,10 @@
       "type": 3,
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/TXDM.js"
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/TXDM.js",
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "优酷弹幕",
@@ -525,7 +528,10 @@
       "type": 3,
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/YKDM.js"
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/YKDM.js",
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "芒果弹幕",
@@ -533,7 +539,10 @@
       "type": 3,
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/MGDM.js"
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/MGDM.js"，
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "爱奇艺弹幕",
@@ -541,7 +550,10 @@
       "type": 3,
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"，
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "搜狗",
