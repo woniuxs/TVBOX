@@ -122,7 +122,7 @@
       "name": "🐚南瓜｜弹幕",
       "type": 3,
       "api": "csp_Nangua",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -253,15 +253,14 @@
       "filterable": 1
     },
     {
-      "key": "摸鱼瓜子",
-      "name": "🥜嗑嗑瓜子┃2K纯净",
+      "key": "瓜子影视",
+      "name": "🥜瓜子┃2K纯净",
       "type": 3,
-      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/json/js/drpy.min.js",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+      "api": "csp_Gz360",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "醉挽清风",
