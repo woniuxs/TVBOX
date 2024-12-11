@@ -369,17 +369,6 @@
       }
     },
     {
-      "key": "nfys",
-      "name": "🥈奈飞┃专线",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
-      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
       "key": "alllive",
       "name": "📽️一直播┃LIVE",
       "type": 3,
@@ -521,6 +510,38 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "腾讯弹幕",
+      "name": "🐧腾讯｜弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/TXDM.js"
+    },
+    {
+      "key": "优酷弹幕",
+      "name": "🍎优酷｜弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/YKDM.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "🥝芒果｜弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/MGDM.js"
+    },
+    {
+      "key": "爱奇艺弹幕",
+      "name": "🥭爱奇艺｜弹幕",
+      "type": 3,
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"
     },
     {
       "key": "zxzj",
@@ -1127,6 +1148,21 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
+    },
+    {
+      "name": "抖音",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "6433",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "0880",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
       "name": "推荐0",
