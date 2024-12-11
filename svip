@@ -1084,7 +1084,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
     },
     {
       "key": "fan",
@@ -1093,7 +1094,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
     },
     {
       "key": "cc",
@@ -1102,7 +1104,8 @@
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
     }
   ],
   "parses": [
