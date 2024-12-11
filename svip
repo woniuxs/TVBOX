@@ -943,18 +943,6 @@
       }
     },
     {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "Bili",
       "name": "🅱哔哔合集┃弹幕",
       "type": 3,
@@ -1075,6 +1063,18 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://tv.xn--11x555b.top/lib/waiyu.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "woniu",
