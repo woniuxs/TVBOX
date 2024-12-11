@@ -51,31 +51,24 @@
       "timeout": 10
     },
     {
-      "key": "无忧短剧",
-      "name": "🐓无忧┃短剧",
+      "key": "星芽短剧",
+      "name": "🐓星芽┃短剧",
       "type": 3,
-      "api": "csp_Duanj",
+      "api": "csp_AppXY",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "searchable": 1,
-      "changeable": 0,
-      "style": {
-          "type": "rect",
-          "ratio": 1.433
-      }
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
-      "key": "在线短剧",
-      "name": "🛌在线┃短剧",
+      "key": "河马短剧",
+      "name": "🛌河马┃短剧",
       "type": 3,
-      "api": "csp_Duanju",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "api": "csp_AppHMDJ",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "csp_瓜子",
@@ -261,18 +254,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "醉挽清风",
-      "name": "🌬️蜗牛┃4K纯净",
-      "type": 3,
-      "api": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/json/js/drpy.min.js",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
     },
     {
       "key": "dianyiPQ",
@@ -549,6 +530,24 @@
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/SGSP.js"
+    },
+    {
+      "key": "哔哩弹幕",
+      "name": "🌬️哔哩｜弹幕",
+      "type": 3,
+      "api": "csp_Bilimd",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;62604d62b4f3bd41b195b5670bed80a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
+      },
+      "timeout": 10
     },
     {
       "key": "zxzj",
