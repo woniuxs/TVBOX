@@ -1194,7 +1194,7 @@
     {
       "name": "推荐0",
       "type": 1,
-      "url": "http://103.117.123.51:6523/zhuimi666.php?url=",
+      "url": "https://api.woniuxs.us.kg/m1907.html?m1907jx=",
       "ext": {
         "flag": [
           "qq",
@@ -1251,6 +1251,65 @@
                 }
             }
         },
+    {
+      "name": "推荐3",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "推荐4",
+      "type": 1,
+      "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
         {
             "name": "XG蓝光",
             "url": "http://43.248.100.147:6068/bba/xgjjiexi.php?url=",
@@ -1779,7 +1838,7 @@
     {
       "name": "测试2",
       "type": 0,
-      "url": "https://pan.shangui.cc/f/eMj4FQ/xiaokaitv.txt",
+      "url": "http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
