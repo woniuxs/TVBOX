@@ -39,6 +39,15 @@
       }
     },
     {
+      "key": "mgys",
+      "name": "🎬蜗牛┃4K",
+      "type": 3,
+      "playerType": "2",
+      "jar": "https://gitee.com/woniuxs/woniu/raw/main/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "api": "https://gitee.com/woniuxs/woniu/raw/main/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/woniu/raw/main/js/mangguo.js"
+    },
+    {
       "key": "guoguo",
       "name": "🎬蜗牛┃4K",
       "type": 3,
@@ -1132,9 +1141,9 @@
       "url": "Web"
     },
     {
-      "name": "臻享",
-      "type": "1",
-      "url": "https://jk.123zy.cool/jx/jx.php?url=",
+      "name": "推荐",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -1161,9 +1170,9 @@
       }
     },
     {
-      "name": "推荐",
-      "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
+      "name": "臻享",
+      "type": "1",
+      "url": "https://jk.123zy.cool/jx/jx.php?url=",
       "ext": {
         "flag": [
           "qq",
