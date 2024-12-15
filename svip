@@ -42,14 +42,14 @@
       "key": "guoguo",
       "name": "🎬蜗牛┃4K",
       "type": 3,
-      "api": "https://tv.xn--11x555b.top/4K/lib/drpy2.min.js",
+      "api": "https://gitee.com/woniuxs/woniu/raw/main/js/drpy2.min.js",
       "jar": "https://tv.xn--11x555b.top/4K/jar/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "https://tv.xn--11x555b.top/4K/lib/guoguo.js"
+      "ext": "https://gitee.com/woniuxs/woniu/raw/main/js/mangguo.js"
     },
     {
       "key": "韩小圈",
