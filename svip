@@ -39,6 +39,15 @@
       }
     },
     {
+      "key": "mgys",
+      "name": "果果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tv.xn--11x555b.top/4K/lib/drpy2.min.js",
+      "jar": "https://tv.xn--11x555b.top/4K/jar/woniu4k;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "ext": "https://tv.xn--11x555b.top/EXT/mangguo.js"
+    },
+    {
       "key": "guoguo",
       "name": "🎬蜗牛┃4K",
       "type": 3,
