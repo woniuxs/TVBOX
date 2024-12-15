@@ -42,8 +42,8 @@
       "key": "mgys",
       "name": "🎬蜗牛┃4K",
       "type": 3,
-      "playerType": "2",
       "jar": "https://gitee.com/woniuxs/woniu/raw/main/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "playerType": "2",
       "api": "https://gitee.com/woniuxs/woniu/raw/main/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/woniu/raw/main/js/mangguo.js"
     },
