@@ -1931,7 +1931,7 @@
       "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-    }
+    },
     {
       "name": "IPV6③",
       "type": 0,
