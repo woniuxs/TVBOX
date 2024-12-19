@@ -369,16 +369,12 @@
       }
     },
     {
-      "key": "guoguo",
+      "key": "mgys",
       "name": "🎬蜗牛┃备用",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
+      "jar": "https://gitee.com/woniuxs/woniu/raw/main/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "playerType": "2",
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
