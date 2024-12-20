@@ -694,6 +694,57 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "我的阿里",
+      "name": "📁文件┃阿里┃资源",
+      "type": 3,
+      "api": "csp_MyAli",
+      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+      },
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "我的夸克",
+      "name": "📁文件┃夸克┃资源",
+      "type": 3,
+      "api": "csp_MyQuark",
+      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+      },
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "我的UC",
+      "name": "📁文件┃UC┃资源",
+      "type": 3,
+      "api": "csp_MyUc",
+      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+      },
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "56动漫",
       "name": "☀56┃动漫",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;9fe02badd73cbc2cd59ec8e510604af9",
