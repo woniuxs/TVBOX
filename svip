@@ -1027,6 +1027,7 @@
       "name": "🅱哔哔合集┃弹幕",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://tv.xn--11x555b.top/jar/woniu.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1043,6 +1044,7 @@
       "name": "🅱哔哔演唱会┃弹幕",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://tv.xn--11x555b.top/jar/woniu.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
       "style": {
         "type": "rect",
         "ratio": 1.597
