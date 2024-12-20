@@ -18,7 +18,7 @@
     },
     {
       "key": "豆豆",
-      "name": "📢公告❤更新:12/17❤",
+      "name": "📢公告❤更新:12/21❤",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -709,6 +709,13 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "本地",
+      "name": "📁文件┃本地┃资源",
+      "type": 3,
+      "api": "csp_LocalFile",
+      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php"
     },
     {
       "key": "我的夸克",
