@@ -1,13 +1,15 @@
-👉公        告
+公众号【蜗牛科技仓】20241221更新
+👉公        告,#genre#
 👇公  众  号,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
 👇蜗牛科技仓,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84gp61a7n0ms.mp4
 👇祝 您 2024,https://vd2.bdstatic.com/mda-mmkfweauph7ju2rr/sc/cae_h264_delogo/1643229088196056141/mda-mmkfweauph7ju2rr.mp4
 👇龙 年 大 吉,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw4vG4gUozNe3-QM.mp4
 👇把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-👇换成支持ipv6,http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-👇支持所有线路,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-👇直播高清流畅,http://182.150.48.83:8888/newlive/live/hls/54/live.m3u8
-👇更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+👇换成支持ipv6,http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
+👇支持所有线路,https://sp.4n2.cn/?api=xjj
+👇直播高清流畅,https://sp.4n2.cn/?api=tm
+👇更换享受超清,https://sp.4n2.cn/?api=sw
+
 📡央视超清
 CCTV1,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
 CCTV1,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000501
