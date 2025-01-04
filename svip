@@ -74,14 +74,15 @@
       "filterable": 0
     },
     {
-      "key": "河马短剧",
-      "name": "🛌河马┃短剧",
+      "key": "短剧合集",
+      "name": "🛌短剧｜合集",
       "type": 3,
-      "api": "csp_AppHMDJ",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/quark.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/cloud/js/DJHJ.js",
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "csp_瓜子",
@@ -750,8 +751,8 @@
       "name": "☀56┃动漫",
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
       "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/56DM.js"
+      "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/four-d/raw/master/anime/js/56DM.js"
     },
     {
       "key": "Dm84",
