@@ -18,7 +18,7 @@
     },
     {
       "key": "豆豆",
-      "name": "📢公告❤更新:12/21❤",
+      "name": "📢公告❤更新:1/4❤",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -75,7 +75,7 @@
     },
     {
       "key": "短剧合集",
-      "name": "🛌短剧｜合集",
+      "name": "🛌短剧┃合集",
       "type": 3,
       "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/quark.min.js",
