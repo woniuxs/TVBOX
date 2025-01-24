@@ -9,7 +9,7 @@
         "version": "感谢支持"
       },
       {
-        "name": "公众号欧歌APP",
+        "name": "公众号蜗牛科技仓",
         "url": " ",
         "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
         "version": ""
