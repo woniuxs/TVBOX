@@ -1,5 +1,22 @@
 [
-     {
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "微信赞助打赏",
+        "url": " ",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": " ",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  },
+  {
     "name": "本地包",
     "list": [
       {
@@ -15,6 +32,26 @@
         "version": "当前版本自行更新"
       },
       {
+        "name": "欧歌助手",
+        "url": "http://wb.xn--dkw.xn--6qq986b3xl:5244/d/%E5%A4%A9/%E6%AC%A7%E6%AD%8C%E5%8A%A9%E6%89%8B.apk",
+        "icon": "https://api.dzzui.com/api/avatar",
+        "version": "手机版"
+      },
+      {
+        "name": "微信赞助打赏",
+        "url": "http://wb.nxog.top:5244/d/移/软件/0.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/170832351526029731899cac9d8ca935cdc736eec31af1708323503.png",
+        "version": "感谢支持"
+      },
+      {
+        "name": "公众号欧歌APP",
+        "url": "http://wb.nxog.top:5244/d/移/软件/wx.png",
+        "icon": "https://alicliimg.clewm.net/342/790/68790342/17088361435038ca103a5d9bd4661a38f9d63262b39ba1708836138.png",
+        "version": ""
+      }
+    ]
+  },
+  {
     "name": "Allinone",
     "list": [
       {
