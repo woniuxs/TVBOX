@@ -1183,6 +1183,16 @@
       }
     },
     {
+      "key": "应用商店",
+      "name": "🛒本地包更新",
+      "type": 3,
+      "api": "csp_Market",
+      "jar": "https://11516.kstore.space/jar.php?id=ou&ou=公众号欧歌app;md5;5bb2fe55cf3aa63d0d1c44619f884213",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://tv.xn--11x555b.top/4K/sd.php"
+    },
+    {
       "key": "woniu",
       "name": "导航www.蜗牛.top",
       "type": 3,
