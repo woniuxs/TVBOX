@@ -20,9 +20,9 @@
     "name": "本地包",
     "list": [
       {
-        "name": "多线路半本地包",
-        "url": "http://123.yy.xn--dkw.xn--6qq986b3xl/tvbox.zip",
-        "icon": "http://127.0.0.1:9978/file/tvbox/.版本号.png",
+        "name": "蜗牛管家",
+        "url": "https://d.kstore.dev/download/12589/%E8%9C%97%E7%89%9B%E7%AE%A1%E5%AE%B6_1.5.2.apk",
+        "icon": "https://d.kstore.dev/download/12589/%E8%9C%97%E7%89%9B%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.png",
         "version": "当前版本防止域名被屏蔽用"
       },
       {
