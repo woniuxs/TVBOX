@@ -23,10 +23,10 @@
         "name": "蜗牛管家",
         "url": "https://d.kstore.dev/download/12589/%E8%9C%97%E7%89%9B%E7%AE%A1%E5%AE%B6_1.5.2.apk",
         "icon": "https://d.kstore.dev/download/12589/%E8%9C%97%E7%89%9B%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.png",
-        "version": "当前版本防止域名被屏蔽用"
+        "version": ""
       },
       {
-        "name": "本地线上包",
+        "name": "线上本地包",
         "url": " https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737688390644/单线路.zip",
         "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
         "version": "当前版本自行更新"
