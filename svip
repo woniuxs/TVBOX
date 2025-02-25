@@ -75,7 +75,7 @@
     },
     {
       "key": "河马短剧",
-      "name": "河马｜短剧",
+      "name": "🏝河马┃短剧",
       "type": 3,
       "api": "csp_AppHMDJ",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
@@ -700,17 +700,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Auete",
-      "name": "🏝奥特┃无广",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
     },
     {
       "key": "新6V",
