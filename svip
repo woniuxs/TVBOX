@@ -1,5 +1,5 @@
 {
-  "spider": "https://tv.xn--11x555b.top/jar/woniu1221.jar;md5;80f256d0205d5ececa8147b1c4c99530",
+  "spider": "https://tv.xn--11x555b.top/jar/woniu0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText":"【蜗牛影视】提示:
   📢接口软件永远免费 
@@ -18,7 +18,7 @@
     },
     {
       "key": "豆豆",
-      "name": "📢公告❤更新:1/24❤",
+      "name": "📢公告❤更新:2/24❤",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -30,7 +30,7 @@
       "name": "🚦配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -56,7 +56,7 @@
       "name": "🐚韩圈┃App",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -68,16 +68,27 @@
       "name": "🐓星芽┃短剧",
       "type": 3,
       "api": "csp_AppXY",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
     },
     {
+      "key": "河马短剧",
+      "name": "河马｜短剧",
+      "type": 3,
+      "api": "csp_AppHMDJ",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+       "filterable": 0,
+       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+    },
+    {
       "key": "短剧合集",
       "name": "🛌短剧┃合集",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider. jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/quark.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/cloud/js/DJHJ.js",
       "style": {
@@ -115,7 +126,7 @@
         "name": "💨荐片┃弹幕",
         "type": 3,
         "api": "csp_Jianpian",
-        "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+        "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
         "playerType": 1,
         "searchable": 1,
         "quickSearch": 1,
@@ -125,24 +136,25 @@
       }
     },
     {
-      "key": "南瓜弹幕",
-      "name": "🐚南瓜┃弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
+         "key": "浪酷弹幕",
+         "name": "🐚浪酷┃弹幕",
+         "type": 3,
+         "api": "csp_TianTian",
+        "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "ext": {
+             "danmu": true,
+             "site": "aHR0cDovL3YubGt1eXMuY24="
+          }
     },
     {
       "key": "厂长弹幕",
       "name": "🐷厂长┃弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -155,7 +167,7 @@
       "name": "🐹天天┃弹幕",
       "type": 3,
       "api": "csp_TianTian",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -167,7 +179,7 @@
     {
       "key": "热播弹幕",
       "name": "🐶热播┃弹幕",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "type": 3,
       "api": "csp_ReBo",
       "searchable": 1,
@@ -182,7 +194,7 @@
       "name": "🍚糯米┃弹幕",
       "type": 3,
       "api": "csp_Nmys",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -195,7 +207,7 @@
       "name": "🌸文才┃弹幕",
       "type": 3,
       "api": "csp_Jpys",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -219,7 +231,7 @@
       "name": "🚝天天┃APP",
       "type": 3,
       "api": "csp_AppTT",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -229,7 +241,7 @@
       "name": "🍉西瓜┃视频",
       "type": 3,
       "api": "csp_AmuXiguaV2",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -244,7 +256,7 @@
       "name": "🐧奇优┃影视",
       "type": 3,
       "api": "csp_Qiyou",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -253,7 +265,7 @@
     {
       "key": "农民影视",
       "name": "🦢农民┃影视",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -265,7 +277,7 @@
       "name": "🥜瓜子┃2K纯净",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -519,7 +531,7 @@
       "key": "腾讯弹幕",
       "name": "🐧腾讯┃弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/TXDM.js"
     },
@@ -527,7 +539,7 @@
       "key": "优酷弹幕",
       "name": "🍎优酷┃弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/YKDM.js"
     },
@@ -535,7 +547,7 @@
       "key": "芒果弹幕",
       "name": "🥝芒果┃弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/MGDM.js"
     },
@@ -543,7 +555,7 @@
       "key": "爱奇艺弹幕",
       "name": "🥭爱奇艺┃弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/AQYDM.js"
     },
@@ -551,7 +563,7 @@
       "key": "搜狗视频",
       "name": "🐶搜狗┃弹幕",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/movie/js/SGSP.js"
     },
@@ -560,7 +572,7 @@
       "name": "🌬️哔哩┃弹幕",
       "type": 3,
       "api": "csp_Bilimd",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -578,7 +590,7 @@
       "name": "💫皮皮虾┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -589,7 +601,7 @@
       "name": "💤HG影视┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",      
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -771,7 +783,7 @@
     {
       "key": "56动漫",
       "name": "☀56┃动漫",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;00ade2b74c302f33afbeb7f96f861be4",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "type": 3,
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/drpy2.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/anime/js/56DM.js"
@@ -888,7 +900,7 @@
       "api": "csp_Wexalllive",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "https://tv.xn--11x555b.top/jar/wex.jar"
     },
     {
       "key": "IKTV",
@@ -897,7 +909,7 @@
       "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
-      "jar": "https://gitee.com/woniuxs/four-d/raw/master/wex.txt;md5;cae606af0c0d24a48ce5e0387c8c18cb"
+      "jar": "https://tv.xn--11x555b.top/jar/wex.jar"
     },
     {
       "key": "csp_Yj1211",
