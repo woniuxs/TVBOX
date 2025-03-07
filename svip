@@ -1,3 +1,6 @@
+//蜗牛影视整合本接口
+//关注微信公众号【蜗牛科技仓】有惊喜哦！！
+
 {
   "spider": "https://tv.xn--11x555b.top/jar/woniu0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
   "wallpaper": "https://api.likepoems.com/img/bing",
@@ -297,7 +300,7 @@
         "影片年代": "<div class=\"module-info-tag\">&&</div>",
         "影片类型": "module-info-tag\">&&立即播放",
         "搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
-        "简介": "【公众号：蜗牛科技仓】提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
+        "简介": "【蜗牛科技仓】提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
         "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
         "线路标题": "【蜗牛科技仓】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
       }
@@ -374,6 +377,32 @@
       "header": {
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
       }
+    },
+    {
+      "key": "量子",
+      "name": "💥量子┃秒播",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playurl": "json:https://lziplayer.com/?url=",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
     },
     {
       "key": "mgys",
