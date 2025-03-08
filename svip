@@ -184,12 +184,13 @@
       "name": "🐶热播┃弹幕",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "type": 3,
-      "api": "csp_ReBo",
+      "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true
+        "danmu": true,
+        "site": "aHR0cDovL3YucmJvdHYuY24="
       }
     },
     {
@@ -230,15 +231,23 @@
       "changeable": 0
     },
     {
-      "key": "天天影视",
-      "name": "🚝天天┃APP",
+      "key": "木头",
+      "name": "🚝木头┃APP",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_Shark",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "playerType": 1,
+      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
     },
+    {
+       "key": "蝴蝶",
+       "name": "蝴蝶┃APP",
+       "type": 3,
+       "api": "csp_Hudie",
+       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+       "playerType": 2,
+       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    }，
     {
       "key": "西瓜视频",
       "name": "🍉西瓜┃视频",
@@ -253,7 +262,7 @@
         "type": "rect",
         "ratio": 1.597
       }
-    },
+    }，
     {
       "key": "奇优影视",
       "name": "🐧奇优┃影视",
