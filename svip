@@ -305,15 +305,14 @@
       }
     },
     {
-      "key": "奇优影视",
-      "name": "🐧奇优┃影视",
+      "key": "1905",
+      "name": "🐧1905┃影视",
       "type": 3,
-      "api": "csp_Qiyou",
+      "api": "csp_Web1905",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.dyxz2.com/"
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "巧技",
