@@ -114,7 +114,7 @@
     },
     {
       "key": "csp_瓜子",
-      "name": "🐇瓜子影视┃秒播",
+      "name": "🐇瓜子┃秒播",
       "api": "csp_Gz360",
       "jar": "https://tv.xn--11x555b.top/lib/xm.jar",
       "type": 3,
@@ -125,7 +125,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "雷鲸┃4K",
+      "name": "🎬雷鲸┃4K",
       "type": 3,
       "api": "csp_Wexleijing",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "天翼",
-      "name": "天翼┃4K",
+      "name": "🎬天翼┃4K",
       "type": 3,
       "api": "csp_Wextyso",
       "searchable": 1,
@@ -158,7 +158,7 @@
     },
     {
       "key": "盘他",
-      "name": "盘他┃4K‍",
+      "name": "🎬盘他┃4K‍",
       "type": 3,
       "api": "csp_WexYDpanta",
       "searchable": 1,
@@ -364,7 +364,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "🚀叨观┃新片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -858,11 +858,22 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "80S",
+      "name": "🧲80S｜磁力",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "我的阿里",
       "name": "📁文件┃阿里┃资源",
       "type": 3,
       "api": "csp_MyAli",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -879,14 +890,14 @@
       "name": "📁文件┃本地┃资源",
       "type": 3,
       "api": "csp_LocalFile",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php"
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
     },
     {
       "key": "我的夸克",
       "name": "📁文件┃夸克┃资源",
       "type": 3,
       "api": "csp_MyQuark",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -903,7 +914,7 @@
       "name": "📁文件┃UC┃资源",
       "type": 3,
       "api": "csp_MyUc",
-      "jar": "http://xn--ihqu10cn4c.xn--v4q818bf34b.com/by/jar/danmu.php",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
