@@ -56,6 +56,14 @@
       "jar": "https://tv.xn--11x555b.top/jar/wex.jar"
     },
     {
+      "key": "预告",
+      "name": "🚀新片｜预告",
+      "type": 3,
+      "api": "csp_YGP",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "searchable": 0
+    },
+    {
       "key": "guoguo",
       "name": "🎬蜗牛┃4K",
       "type": 3,
@@ -161,6 +169,15 @@
       "name": "🎬盘他┃4K‍",
       "type": 3,
       "api": "csp_WexYDpanta",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://tv.xn--11x555b.top/jar/wex.jar"
+    },
+    {
+      "key": "Emby",
+      "name": "🎬Emby┃4K",
+      "type": 3,
+      "api": "csp_Wexemby",
       "searchable": 1,
       "changeable": 1,
       "jar": "https://tv.xn--11x555b.top/jar/wex.jar"
@@ -360,14 +377,6 @@
         "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
         "线路标题": "【蜗牛科技仓】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
       }
-    },
-    {
-      "key": "预告",
-      "name": "🚀新片｜预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
-      "searchable": 0
     },
     {
       "key": "木耳",
