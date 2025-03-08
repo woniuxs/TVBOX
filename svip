@@ -362,13 +362,12 @@
       }
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观┃新片",
+      "key": "预告",
+      "name": "🚀新片｜预告",
       "type": 3,
       "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "searchable": 0
     },
     {
       "key": "木耳",
