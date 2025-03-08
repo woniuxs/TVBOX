@@ -105,7 +105,7 @@
       "key": "短剧合集",
       "name": "🛌短剧┃合集",
       "type": 3,
-      "jar": "https://tv.xn--11x555b.top/jar/spider. jar",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "api": "https://gitee.com/woniuxs/four-d/raw/master/js/quark.min.js",
       "ext": "https://gitee.com/woniuxs/four-d/raw/master/cloud/js/DJHJ.js",
       "style": {
@@ -960,7 +960,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }，
+    },
     {
       "key": "926看球",
       "name": "⚽926┃看球",
