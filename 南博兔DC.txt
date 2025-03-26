@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "南博兔/主力仓",
-      "url": "https://9877.kstore.space/FourD/api.json"
+      "url": "https://9877.kstore.space/AnotherD/api.json"
     },
     {
       "name": "南博兔①/关注抖音号",
@@ -65,7 +65,7 @@
       "name": "🚀王二小线"
     },
     {
-      "url": "https://gitlab.com/xmbjm/omg/-/raw/main/omg.json",
+      "url": "https://4708.kstore.space/svip/svip.json",
       "name": "🚀拾光专线"
     },
     {
