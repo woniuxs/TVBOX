@@ -18,7 +18,7 @@
     },
     {
       "sourceName": "💙蜗牛讴歌仓🍭严禁贩卖🍭",
-      "sourceUrl": "https://vip.nxog.top"
+      "sourceUrl": "https://欧歌.e.nxog.top/api.php?id=2"
     },
     {
       "sourceName": "🧡蜗牛挺好仓🍭蜗牛科技🍭",
