@@ -14,8 +14,7 @@
       "type": 3,
       "api": "csp_Douban",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
-      "searchable": 0,
-      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
+      "searchable": 0
     },
     {
       "key": "豆豆",
