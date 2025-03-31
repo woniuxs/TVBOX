@@ -1,7 +1,7 @@
 {
   "storeHouse": [
     {
-      "sourceName": "❤️蜗牛精选仓🍭蜗牛提醒🍭",
+      "sourceName": "❤️蜗牛科技仓🍭蜗牛精选🍭",
       "sourceUrl": "https://tv.蜗牛.top/DS"
     },
     {
