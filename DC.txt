@@ -21,8 +21,8 @@
       "sourceUrl": "https://vip.nxog.top/m"
     },
     {
-      "sourceName": "🧡蜗牛繁华仓🍭蜗牛科技🍭",
-      "sourceUrl": "https://9071.kstore.vip/zydanc.txt"
+      "sourceName": "🧡蜗牛挺好仓🍭蜗牛科技🍭",
+      "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
     },
     {
       "sourceName": "🤍蜗牛多多仓🍭不做韭菜🍭",
