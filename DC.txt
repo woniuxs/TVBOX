@@ -1,0 +1,32 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "❤️蜗牛精选仓🍭蜗牛提醒🍭",
+      "sourceUrl": "https://tv.蜗牛.top/DS"
+    },
+    {
+      "sourceName": "💜蜗牛星辰仓🍭蜗牛提醒🍭",
+      "sourceUrl": "http://150.158.112.123/dc.json"
+    },
+    {
+      "sourceName": "💚蜗牛天微仓🍭软件接口🍭",
+      "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+    },
+    {
+      "sourceName": "💛蜗牛拾光仓🍭完全免费🍭",
+      "sourceUrl": "https://4708.kstore.space/ck.json"
+    },
+    {
+      "sourceName": "💙蜗牛讴歌仓🍭严禁贩卖🍭",
+      "sourceUrl": "https://vip.nxog.top/m"
+    },
+    {
+      "sourceName": "🧡蜗牛繁华仓🍭蜗牛科技🍭",
+      "sourceUrl": "https://9071.kstore.vip/zydanc.txt"
+    },
+    {
+      "sourceName": "🤍蜗牛多多仓🍭不做韭菜🍭",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"
+    }
+  ]
+}
