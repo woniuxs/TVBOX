@@ -278,6 +278,17 @@
       }
     },
     {
+      "key": "仓鼠",
+      "name": "🐹仓鼠┃App",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/NMVNUpzf.png;md5;THISISMD5",
+      "api": "csp_CangShuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "SP33",
       "name": "📺蜗牛┃解析",
       "type": 3,
@@ -1398,6 +1409,14 @@
       "name": "聚合web",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "HDR",
+      "url": "http://154.40.47.87:6699/hdr9/?url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
     },
     {
       "name": "推荐",
