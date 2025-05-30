@@ -27,6 +27,10 @@
     {
       "sourceName": "🤍蜗牛多多仓🍭不做韭菜🍭",
       "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"
+    },
+    {
+      "sourceName": "💖蜗牛科技仓🍭本地多仓🍭",
+      "sourceUrl": "clan://localhost/TVBoxOSC/本地仓/本地仓.txt"
     }
   ]
 }
