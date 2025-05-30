@@ -10,7 +10,7 @@
     },
     {
       "sourceName": "💚蜗牛天微仓🍭软件接口🍭",
-      "sourceUrl": "https://qixing.myhkw.com/DC.txt"
+      "sourceUrl": "https://qixing.myhkw.com/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.txt"
     },
     {
       "sourceName": "💛蜗牛拾光仓🍭完全免费🍭",
