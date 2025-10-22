@@ -77,15 +77,19 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
-      "key": "韩小圈",
+      "key": "韩圈",
       "name": "🐚韩圈┃App",
       "type": 3,
-      "api": "csp_HanXiaoQuan",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "jar": "https://pan.qingyuji.cn/f/aALGFw/kk.png;md5;eb079a7fcbec8e29c5a83c9a426641e7",
+      "api": "csp_HanXiaoQuanGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 1,
       "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
       "timeout": 10
     },
     {
@@ -121,15 +125,19 @@
       }
     },
     {
-      "key": "csp_瓜子",
+      "key": "瓜子",
       "name": "🐇瓜子┃秒播",
-      "api": "csp_Gz360",
-      "jar": "https://tv.xn--11x555b.top/lib/xm.jar",
       "type": 3,
+      "api": "csp_GuaziGuard",
+      "jar": "https://pan.qingyuji.cn/f/aALGFw/kk.png;md5;eb079a7fcbec8e29c5a83c9a426641e7",
       "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
     },
     {
       "key": "玩偶",
