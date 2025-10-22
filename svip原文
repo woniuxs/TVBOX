@@ -200,14 +200,13 @@
          "key": "浪酷弹幕",
          "name": "🐚浪酷┃弹幕",
          "type": 3,
-         "api": "csp_TianTian",
+         "api": "csp_AppRJ",
         "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
          "searchable": 1,
          "quickSearch": 1,
          "filterable": 1,
          "ext": {
-             "danmu": true,
-             "site": "aHR0cDovL3YubGt1eXMuY24="
+             "url": "http://v.lkuys.cn"
           }
     },
     {
@@ -227,14 +226,13 @@
       "key": "天天弹幕",
       "name": "🐹天天┃弹幕",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_AppRJ",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+        "url": "http://tt.ysdqjs.cn"
       }
     },
     {
@@ -242,13 +240,12 @@
       "name": "🐶热播┃弹幕",
       "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL3YucmJvdHYuY24="
+        "url": "http://v.rbotv.cn"
       }
     },
     {
