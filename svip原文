@@ -77,20 +77,14 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
-      "key": "韩圈",
-      "name": "🐚韩圈┃App",
+    {
+      "key": "fishhxq",
+      "name": "💃韩圈┃影视",
       "type": 3,
-      "jar": "https://10352.kstore.vip/202512120850.png;md5;68060405b6dfe95cc44a905a76678b34",
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
+      "api": "csp_FishHxq",
+      "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "ext": "http://www.小不点.com/api//2026/fishhxq.php"
     },
     {
       "key": "星芽短剧",
@@ -131,6 +125,16 @@
       "api": "csp_Guazi",
       "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
       "searchable": 1,
+    },
+    {
+      "key": "三秋影视",
+      "name": "🍂三秋┃APP",
+      "api": "csp_App3Q",
+      "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "热播影视",
@@ -369,16 +373,6 @@
       "type": 3,
       "api": "csp_WwysGuard",
       "ext": "https://www.wwgz.cn"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "🥜瓜子┃2K纯净",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "dianyiPQ",
