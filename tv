@@ -1,7 +1,10 @@
 {
   "spider": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
-  "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+  "logo": "https://xn--11x555b.top/woniu.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "warningText":"【蜗牛影视】提示:
+  📢接口软件永远免费 
+  📢长期维护切勿贩卖",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "sites": [
     {
@@ -19,6 +22,17 @@
           "tmdb": "https://6800.kstore.vip/tmdb.json"
         }
       }
+    },
+    {
+      "key": "豆瓣",
+      "name": "仅限个人试用测试，禁传播贩卖，请24小时后删除",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://tv.xn--11x555b.top/4K/jar/xhpmd.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://tv.xn--11x555b.top/4K/json/wnkj.json"
     },
     {
       "key": "YGP",
