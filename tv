@@ -128,11 +128,11 @@
       "filterable": 1
     },
     {
-      "key": "热播影视",
+      "key": "Rebo",
       "name": "🍵热播┃弹幕",
       "type": 3,
       "api": "csp_AppRJ",
-      "jar": "https://wp.kayyw.com/f/D3Motk/wnkjgz.jar",
+      "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -245,17 +245,14 @@
       }
     },
     {
-      "key": "热播弹幕",
-      "name": "🐶热播┃弹幕",
-      "jar": "https://tv.xn--11x555b.top/jar/spider.jar",
+      "key": "三秋影视",
+      "name": "🍂三秋┃App",
+      "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
       "type": 3,
-      "api": "csp_AppRJ",
+      "api": "csp_App3Q",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
+      "filterable": 0
     },
     {
       "key": "糯米弹幕",
