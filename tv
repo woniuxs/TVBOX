@@ -77,20 +77,13 @@
       "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
-      "key": "韩圈",
+      "key": "fishhxq",
       "name": "🐚韩圈┃App",
       "type": 3,
       "jar": "https://10352.kstore.vip/202512120850.png;md5;68060405b6dfe95cc44a905a76678b34",
-      "api": "csp_HanXiaoQuanGuard",
-      "playerType": 2,
+      "api": "csp_FishHxq",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
+      "ext": "http://www.小不点.com/api//2026/fishhxq.php"
     },
     {
       "key": "星芽短剧",
