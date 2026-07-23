@@ -125,14 +125,12 @@
       }
     },
     {
-      "key": "瓜子影视",
-      "name": "🍉瓜子┃2K秒播",
+      "key": "Guazi",
+      "name": "🍉瓜子┃秒播",
       "type": 3,
-      "api": "csp_Gz360",
+      "api": "csp_Guazi",
       "jar": "https://qiniu.gongxueyun.com/upload/4861227/2026-07-20/noknow/879949887_1_1784533310607.jar;md5;5e0a00965bfa93bc2c79af173e35852d",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "热播影视",
